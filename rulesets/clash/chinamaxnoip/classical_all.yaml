@@ -294,7 +294,7 @@ payload:
   - DOMAIN,edge.music-choice-play-chaina1.top.comcast.net
   - DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 
-  # DOMAIN-SUFFIX (116985 rules)
+  # DOMAIN-SUFFIX (116987 rules)
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
   - DOMAIN-SUFFIX,1.cc
@@ -95290,6 +95290,7 @@ payload:
   - DOMAIN-SUFFIX,gamepingce.com
   - DOMAIN-SUFFIX,gamerstorm.com
   - DOMAIN-SUFFIX,gametaptap.com
+  - DOMAIN-SUFFIX,gameviewer.com
   - DOMAIN-SUFFIX,gameyiming.com
   - DOMAIN-SUFFIX,gammatimes.com
   - DOMAIN-SUFFIX,gangbao365.com
@@ -117161,6 +117162,7 @@ payload:
   - DOMAIN-SUFFIX,harrypottermagicawakened.com
   - DOMAIN-SUFFIX,huairougreatwallmarathon.com
   - DOMAIN-SUFFIX,hypnotherapyforeverybody.com
+  - DOMAIN-SUFFIX,infiniteborders3kingdoms.com
   - DOMAIN-SUFFIX,intelligence-electricity.net
   - DOMAIN-SUFFIX,international-gfe.nvidia.com
   - DOMAIN-SUFFIX,kuai666bjeve6ks43qyw4vc8.com

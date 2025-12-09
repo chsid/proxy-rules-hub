@@ -118,7 +118,7 @@ payload:
   - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-  # DOMAIN-SUFFIX (32229 rules)
+  # DOMAIN-SUFFIX (32231 rules)
   - DOMAIN-SUFFIX,d.pr
   - DOMAIN-SUFFIX,g.co
   - DOMAIN-SUFFIX,j.mp
@@ -438,6 +438,7 @@ payload:
   - DOMAIN-SUFFIX,qmb.ir
   - DOMAIN-SUFFIX,qx.net
   - DOMAIN-SUFFIX,qz.com
+  - DOMAIN-SUFFIX,r2.dev
   - DOMAIN-SUFFIX,rb.com
   - DOMAIN-SUFFIX,rb.net
   - DOMAIN-SUFFIX,rd.com
@@ -25255,6 +25256,7 @@ payload:
   - DOMAIN-SUFFIX,igniteseurope.com
   - DOMAIN-SUFFIX,iknowthatgirl.com
   - DOMAIN-SUFFIX,ilovelongtoes.com
+  - DOMAIN-SUFFIX,imagedelivery.net
   - DOMAIN-SUFFIX,imonsterbeats.com
   - DOMAIN-SUFFIX,imoviegallery.com
   - DOMAIN-SUFFIX,independent.co.uk

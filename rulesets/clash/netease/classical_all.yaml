@@ -6,7 +6,7 @@ payload:
   # DOMAIN (1 rules)
   - DOMAIN,netease.ugcvideoss.ourdvs.com
 
-  # DOMAIN-SUFFIX (114 rules)
+  # DOMAIN-SUFFIX (117 rules)
   - DOMAIN-SUFFIX,126.am
   - DOMAIN-SUFFIX,126.fm
   - DOMAIN-SUFFIX,163.fm
@@ -95,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,yunxinhy.com
   - DOMAIN-SUFFIX,zhuanzfx.com
   - DOMAIN-SUFFIX,gamehaopu.com
+  - DOMAIN-SUFFIX,gameviewer.cn
   - DOMAIN-SUFFIX,icourse163.cn
   - DOMAIN-SUFFIX,netstatic.net
   - DOMAIN-SUFFIX,static163.net
@@ -103,6 +104,7 @@ payload:
   - DOMAIN-SUFFIX,yunxindns.com
   - DOMAIN-SUFFIX,yunxinrtc.com
   - DOMAIN-SUFFIX,yunxinsvr.com
+  - DOMAIN-SUFFIX,gameviewer.com
   - DOMAIN-SUFFIX,icourse163.com
   - DOMAIN-SUFFIX,icourse163.org
   - DOMAIN-SUFFIX,icourses163.cn
@@ -120,6 +122,7 @@ payload:
   - DOMAIN-SUFFIX,neteasegames.net
   - DOMAIN-SUFFIX,playdisorder.com
   - DOMAIN-SUFFIX,yunxinvcloud.com
+  - DOMAIN-SUFFIX,infiniteborders3kingdoms.com
   - DOMAIN-SUFFIX,marvelunlimitedresources.com
 
   # IP-CIDR (28 rules)

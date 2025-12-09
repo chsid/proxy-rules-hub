@@ -3,18 +3,18 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (159 rules)
+  # DOMAIN (153 rules)
   - DOMAIN,buny.uk
-  - DOMAIN,evan.im
+  - DOMAIN,cny.fan
   - DOMAIN,shubt.net
   - DOMAIN,bt.rer.lol
   - DOMAIN,concen.org
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tracker.bz
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,burmese.app
   - DOMAIN,opentor.org
-  - DOMAIN,wepzone.net
   - DOMAIN,explodie.org
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv6.rer.lol
@@ -24,12 +24,10 @@ payload:
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,bt.bontal.net
   - DOMAIN,bt1.xxxxbt.cc
-  - DOMAIN,open.dstud.io
   - DOMAIN,tracker.1h.is
   - DOMAIN,tracker.qu.ax
   - DOMAIN,home.yxgz.club
   - DOMAIN,opentracker.io
-  - DOMAIN,t.overflow.biz
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.gmi.gd
@@ -44,7 +42,6 @@ payload:
   - DOMAIN,tracker.t-1.org
   - DOMAIN,tracker1.520.jp
   - DOMAIN,bvarf.tracker.sh
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,open.demonii.com
   - DOMAIN,open.demonoid.ch
   - DOMAIN,tk.greedland.net
@@ -72,7 +69,6 @@ payload:
   - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,anna.bt.bontal.net
   - DOMAIN,bt.poletracker.org
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,public.demonoid.ch
@@ -102,7 +98,6 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.therarbg.to
-  - DOMAIN,tracker.wepzone.net
   - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,open.trackerlist.xyz
   - DOMAIN,retracker.hotplug.ru
@@ -128,9 +123,7 @@ payload:
   - DOMAIN,tracker.xiaoduola.xyz
   - DOMAIN,www.torrentsnipe.info
   - DOMAIN,extracker.dahrkael.net
-  - DOMAIN,tr-zhuqiy-1.dgj055.icu
   - DOMAIN,tracker-udp.gbitt.info
-  - DOMAIN,tracker.belmult.online
   - DOMAIN,tracker.flatuslifir.is
   - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,tracker.opentrackr.org
@@ -146,13 +139,13 @@ payload:
   - DOMAIN,tracker.dhitechnical.com
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.torrust-demo.com
+  - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,tracker-de-2.cutie.dating
   - DOMAIN,tracker.darkness.services
   - DOMAIN,tracker.foreverpirates.co
-  - DOMAIN,tracker.zhuqiy.dgj055.icu
   - DOMAIN,tracker.bitcoinindia.space
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.tricitytorrents.com
@@ -162,6 +155,7 @@ payload:
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,retracker01-msk-virt.corbina.net
+  - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 
   # DOMAIN-SUFFIX (123 rules)
