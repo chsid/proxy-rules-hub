@@ -1,0 +1,43 @@
+# download - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (5 rules)
+  - DOMAIN-KEYWORD,aria2
+  - DOMAIN-KEYWORD,xunlei
+  - DOMAIN-KEYWORD,yunpan
+  - DOMAIN-KEYWORD,thunder
+  - DOMAIN-KEYWORD,xlliveud
+
+  # PROCESS-NAME (29 rules)
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,Folx
+  - PROCESS-NAME,Weiyun
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,BitComet
+  - PROCESS-NAME,Folx.exe
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,Weiyun.exe
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,qbittorrent
+  - PROCESS-NAME,BitComet.exe
+  - PROCESS-NAME,NetTransport
+  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,uTorrent.exe
+  - PROCESS-NAME,WebTorrent.exe
+  - PROCESS-NAME,DownloadService
+  - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,BitComet_x64.exe
+  - PROCESS-NAME,NetTransport.exe
+  - PROCESS-NAME,Transmission.exe
+  - PROCESS-NAME,WebTorrentHelper
+  - PROCESS-NAME,baidunetdisk.exe
+  - PROCESS-NAME,DownloadService.exe
+  - PROCESS-NAME,WebTorrentHelper.exe
+  - PROCESS-NAME,WebTorrent Helper.exe

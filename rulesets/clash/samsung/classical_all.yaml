@@ -1,0 +1,19 @@
+# samsung - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (13 rules)
+  - DOMAIN-SUFFIX,knoxemm.com
+  - DOMAIN-SUFFIX,samsung.com
+  - DOMAIN-SUFFIX,anrdoezrs.net
+  - DOMAIN-SUFFIX,samsungdm.com
+  - DOMAIN-SUFFIX,samsungqbe.com
+  - DOMAIN-SUFFIX,galaxymobile.jp
+  - DOMAIN-SUFFIX,samsungapps.com
+  - DOMAIN-SUFFIX,samsungknox.com
+  - DOMAIN-SUFFIX,samsungcloud.com
+  - DOMAIN-SUFFIX,game-platform.net
+  - DOMAIN-SUFFIX,galaxyappstore.com
+  - DOMAIN-SUFFIX,samsungeshop.com.cn
+  - DOMAIN-SUFFIX,samsunggalaxyfriends.com

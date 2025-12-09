@@ -1,0 +1,13 @@
+# olevod - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (4 rules)
+  - DOMAIN-SUFFIX,iole.tv
+  - DOMAIN-SUFFIX,olehd.com
+  - DOMAIN-SUFFIX,olelive.com
+  - DOMAIN-SUFFIX,haiwaikan.com
+
+  # DOMAIN-KEYWORD (1 rules)
+  - DOMAIN-KEYWORD,olevod
