@@ -3,6 +3,9 @@
 # Rules are optimized and sorted for best performance
 payload:
 
+  # DOMAIN (1 rules)
+  - DOMAIN,d151l6v8er5bdm.cloudfront.net
+
   # DOMAIN-SUFFIX (17 rules)
   - DOMAIN-SUFFIX,dazn.com
   - DOMAIN-SUFFIX,s.yimg.jp

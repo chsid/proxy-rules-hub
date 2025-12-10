@@ -3,10 +3,11 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (1 rules)
+  # DOMAIN (2 rules)
+  - DOMAIN,min-api.cryptocompare.com
   - DOMAIN,token-api.metaswap.codefi.network
 
-  # DOMAIN-SUFFIX (196 rules)
+  # DOMAIN-SUFFIX (244 rules)
   - DOMAIN-SUFFIX,zb.io
   - DOMAIN-SUFFIX,cex.io
   - DOMAIN-SUFFIX,eos.io
@@ -23,12 +24,17 @@ payload:
   - DOMAIN-SUFFIX,jaxx.io
   - DOMAIN-SUFFIX,mdex.co
   - DOMAIN-SUFFIX,mdex.me
+  - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,zb.live
   - DOMAIN-SUFFIX,1inch.io
   - DOMAIN-SUFFIX,aave.com
   - DOMAIN-SUFFIX,acinq.co
   - DOMAIN-SUFFIX,bloks.io
   - DOMAIN-SUFFIX,earni.fi
+  - DOMAIN-SUFFIX,huobi.me
+  - DOMAIN-SUFFIX,huobi.sc
+  - DOMAIN-SUFFIX,huobi.ug
+  - DOMAIN-SUFFIX,huobi.ws
   - DOMAIN-SUFFIX,mdex.com
   - DOMAIN-SUFFIX,mdex.one
   - DOMAIN-SUFFIX,mexc.com
@@ -39,6 +45,9 @@ payload:
   - DOMAIN-SUFFIX,block.one
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,cbeci.org
+  - DOMAIN-SUFFIX,huobi.com
+  - DOMAIN-SUFFIX,huobi.pro
+  - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,nansen.ai
   - DOMAIN-SUFFIX,parity.io
   - DOMAIN-SUFFIX,sushi.com
@@ -50,6 +59,11 @@ payload:
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,aimoon.com
   - DOMAIN-SUFFIX,apy999.com
+  - DOMAIN-SUFFIX,binance.cc
+  - DOMAIN-SUFFIX,binance.co
+  - DOMAIN-SUFFIX,binance.im
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.us
   - DOMAIN-SUFFIX,bitbank.cc
   - DOMAIN-SUFFIX,bitcoin.it
   - DOMAIN-SUFFIX,bitmex.com
@@ -77,6 +91,9 @@ payload:
   - DOMAIN-SUFFIX,vitalik.ca
   - DOMAIN-SUFFIX,arbitrum.io
   - DOMAIN-SUFFIX,asproex.com
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.net
+  - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,bitcoin.org
   - DOMAIN-SUFFIX,bitflyer.jp
   - DOMAIN-SUFFIX,bithumb.com
@@ -95,13 +112,20 @@ payload:
   - DOMAIN-SUFFIX,ethfans.org
   - DOMAIN-SUFFIX,ewapool.net
   - DOMAIN-SUFFIX,filecoin.io
+  - DOMAIN-SUFFIX,huobi.co.ma
   - DOMAIN-SUFFIX,loanscan.io
   - DOMAIN-SUFFIX,nftscan.com
+  - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,optimism.io
   - DOMAIN-SUFFIX,phantom.app
   - DOMAIN-SUFFIX,sunswap.com
   - DOMAIN-SUFFIX,uniswap.org
   - DOMAIN-SUFFIX,avax.network
+  - DOMAIN-SUFFIX,binance.info
+  - DOMAIN-SUFFIX,binancezh.be
+  - DOMAIN-SUFFIX,binancezh.cc
+  - DOMAIN-SUFFIX,binancezh.co
+  - DOMAIN-SUFFIX,binancezh.sh
   - DOMAIN-SUFFIX,bisq.network
   - DOMAIN-SUFFIX,bitderiv.com
   - DOMAIN-SUFFIX,bitfinex.com
@@ -116,15 +140,19 @@ payload:
   - DOMAIN-SUFFIX,crypto51.app
   - DOMAIN-SUFFIX,cryptoart.io
   - DOMAIN-SUFFIX,defirate.com
+  - DOMAIN-SUFFIX,docs.ipfs.io
   - DOMAIN-SUFFIX,docs.lotu.sh
   - DOMAIN-SUFFIX,dogecoin.com
   - DOMAIN-SUFFIX,ethereum.org
   - DOMAIN-SUFFIX,etherscan.io
   - DOMAIN-SUFFIX,fragment.com
   - DOMAIN-SUFFIX,hecoview.com
+  - DOMAIN-SUFFIX,huobi.br.com
   - DOMAIN-SUFFIX,icodrops.com
   - DOMAIN-SUFFIX,korbit.co.kr
   - DOMAIN-SUFFIX,makerdao.com
+  - DOMAIN-SUFFIX,okx-dns1.com
+  - DOMAIN-SUFFIX,okx-dns2.com
   - DOMAIN-SUFFIX,poloniex.com
   - DOMAIN-SUFFIX,poly.network
   - DOMAIN-SUFFIX,synthetix.io
@@ -133,6 +161,14 @@ payload:
   - DOMAIN-SUFFIX,tronscan.org
   - DOMAIN-SUFFIX,viewbase.com
   - DOMAIN-SUFFIX,wbtc.network
+  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,binancezh.biz
+  - DOMAIN-SUFFIX,binancezh.com
+  - DOMAIN-SUFFIX,binancezh.ink
+  - DOMAIN-SUFFIX,binancezh.kim
+  - DOMAIN-SUFFIX,binancezh.net
+  - DOMAIN-SUFFIX,binancezh.pro
+  - DOMAIN-SUFFIX,binancezh.top
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,coincheck.com
   - DOMAIN-SUFFIX,coincodex.com
@@ -152,8 +188,16 @@ payload:
   - DOMAIN-SUFFIX,glassnode.com
   - DOMAIN-SUFFIX,heco-scan.com
   - DOMAIN-SUFFIX,hecochain.com
+  - DOMAIN-SUFFIX,huobiasia.vip
   - DOMAIN-SUFFIX,tokenview.com
   - DOMAIN-SUFFIX,asproexapi.com
+  - DOMAIN-SUFFIX,binance.vision
+  - DOMAIN-SUFFIX,binanceapi.com
+  - DOMAIN-SUFFIX,binancecnt.com
+  - DOMAIN-SUFFIX,binancezh.info
+  - DOMAIN-SUFFIX,binancezh.link
+  - DOMAIN-SUFFIX,binancezh.live
+  - DOMAIN-SUFFIX,binancezh.mobi
   - DOMAIN-SUFFIX,bitcoinity.org
   - DOMAIN-SUFFIX,blockchain.com
   - DOMAIN-SUFFIX,blockchair.com
@@ -162,8 +206,11 @@ payload:
   - DOMAIN-SUFFIX,cointrendz.com
   - DOMAIN-SUFFIX,crunchbase.com
   - DOMAIN-SUFFIX,ethernodes.org
+  - DOMAIN-SUFFIX,huobigroup.com
+  - DOMAIN-SUFFIX,huobitoken.com
   - DOMAIN-SUFFIX,nftcalendar.io
   - DOMAIN-SUFFIX,tradeblock.com
+  - DOMAIN-SUFFIX,binance.charity
   - DOMAIN-SUFFIX,bitcointalk.org
   - DOMAIN-SUFFIX,bsc.getblock.io
   - DOMAIN-SUFFIX,chainalysis.com
@@ -172,6 +219,7 @@ payload:
   - DOMAIN-SUFFIX,coinonecorp.com
   - DOMAIN-SUFFIX,cryptofees.info
   - DOMAIN-SUFFIX,cryptoquant.com
+  - DOMAIN-SUFFIX,discuss.ipfs.io
   - DOMAIN-SUFFIX,dovemetrics.com
   - DOMAIN-SUFFIX,makersplace.com
   - DOMAIN-SUFFIX,nonfungible.com
@@ -186,6 +234,7 @@ payload:
   - DOMAIN-SUFFIX,bitnodes.earn.com
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,cryptocompare.com
+  - DOMAIN-SUFFIX,developers.eos.io
   - DOMAIN-SUFFIX,duneanalytics.com
   - DOMAIN-SUFFIX,localbitcoins.com
   - DOMAIN-SUFFIX,myetherwallet.com

@@ -4,8 +4,9 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (1 rules)
+  # DOMAIN-KEYWORD (2 rules)
   - DOMAIN-KEYWORD,nicegram
+  - DOMAIN-KEYWORD,telegram
 
   # IP-ASN (5 rules)
   - IP-ASN,211157,no-resolve

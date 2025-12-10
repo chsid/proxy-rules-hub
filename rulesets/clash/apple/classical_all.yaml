@@ -16,7 +16,7 @@ payload:
   - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
   - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 
-  # DOMAIN-SUFFIX (1549 rules)
+  # DOMAIN-SUFFIX (1563 rules)
   - DOMAIN-SUFFIX,mac.eu
   - DOMAIN-SUFFIX,mac.rs
   - DOMAIN-SUFFIX,me.com
@@ -1050,6 +1050,7 @@ payload:
   - DOMAIN-SUFFIX,casquebeatssolo.net
   - DOMAIN-SUFFIX,cheapbeats4sale.net
   - DOMAIN-SUFFIX,cheapwireless04.com
+  - DOMAIN-SUFFIX,developer.apple.com
   - DOMAIN-SUFFIX,drdrebeats-chen.com
   - DOMAIN-SUFFIX,drdrebeatssale7.com
   - DOMAIN-SUFFIX,drdremonsterdre.com
@@ -1073,9 +1074,11 @@ payload:
   - DOMAIN-SUFFIX,shop-headphones.net
   - DOMAIN-SUFFIX,solostudioksale.com
   - DOMAIN-SUFFIX,sustainthesound.com
+  - DOMAIN-SUFFIX,timestamp.apple.com
   - DOMAIN-SUFFIX,topbeatsforsale.com
   - DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
   - DOMAIN-SUFFIX,1to1computing.com.au
+  - DOMAIN-SUFFIX,apple.com.akadns.net
   - DOMAIN-SUFFIX,appleclassicipod.com
   - DOMAIN-SUFFIX,applecomputer.com.cn
   - DOMAIN-SUFFIX,applecomputer.com.hk
@@ -1316,6 +1319,7 @@ payload:
   - DOMAIN-SUFFIX,custombeatssbydreus.com
   - DOMAIN-SUFFIX,customizedbeatbydre.com
   - DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
+  - DOMAIN-SUFFIX,devimages-cdn.apple.com
   - DOMAIN-SUFFIX,drdreheadphonebeats.com
   - DOMAIN-SUFFIX,drebeats-monsterusa.com
   - DOMAIN-SUFFIX,drebeatsbydreoutlet.com
@@ -1408,6 +1412,8 @@ payload:
   - DOMAIN-SUFFIX,monstershopcheapbeats.net
   - DOMAIN-SUFFIX,newmonst1erbeatsto1re.com
   - DOMAIN-SUFFIX,newschristmasshopping.com
+  - DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+  - DOMAIN-SUFFIX,push-apple.com.akadns.net
   - DOMAIN-SUFFIX,thebeatsheadphonesale.com
   - DOMAIN-SUFFIX,topbeatsbydrdreoutlet.com
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net
@@ -1439,6 +1445,7 @@ payload:
   - DOMAIN-SUFFIX,casquebeatsofficiel-fr.com
   - DOMAIN-SUFFIX,casquebeatspascher2013.com
   - DOMAIN-SUFFIX,cheapbeatsbydremonster.com
+  - DOMAIN-SUFFIX,devstreaming-cdn.apple.com
   - DOMAIN-SUFFIX,dispatcher.is.autonavi.com
   - DOMAIN-SUFFIX,drdreheadphonesusstore.com
   - DOMAIN-SUFFIX,dremonsterbeatsoutlets.com
@@ -1504,6 +1511,7 @@ payload:
   - DOMAIN-SUFFIX,cheapbeatsbydreoutlet-nz.com
   - DOMAIN-SUFFIX,cheapmonsterbeatsbydrdre.com
   - DOMAIN-SUFFIX,cheapmonstersbeatsonsale.com
+  - DOMAIN-SUFFIX,developerservices2.apple.com
   - DOMAIN-SUFFIX,headphones-outlet-online.com
   - DOMAIN-SUFFIX,highdefinitionbeatsbydre.com
   - DOMAIN-SUFFIX,illianacomputerrecycling.com
@@ -1558,14 +1566,20 @@ payload:
   - DOMAIN-SUFFIX,casquemonsterbeatsbydre2013.com
   - DOMAIN-SUFFIX,drebeatssolocybermondaysale.com
   - DOMAIN-SUFFIX,monsterbeatssydneyaustralia.com
+  - DOMAIN-SUFFIX,p-events-delivery.akamaized.net
   - DOMAIN-SUFFIX,cheapbeatsbydrestudioedition.com
   - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
   - DOMAIN-SUFFIX,beatsbydresolohdonline-canada.com
+  - DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
   - DOMAIN-SUFFIX,beatsbydrecybermondaydeals2013.com
   - DOMAIN-SUFFIX,beatsbydrecybermondaydeals2013.net
   - DOMAIN-SUFFIX,usa-beatsbydreheadphonesonsale.net
   - DOMAIN-SUFFIX,beatsbydresalesonline-australia.com
   - DOMAIN-SUFFIX,monsterbeatsbydreaustraliacheap.com
+  - DOMAIN-SUFFIX,appleworldwidedeveloper.sc.omtrdc.net
+  - DOMAIN-SUFFIX,appleworldwidedeveloper.hb-api.omtrdc.net
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com
 
   # DOMAIN-KEYWORD (7 rules)
   - DOMAIN-KEYWORD,smp-device

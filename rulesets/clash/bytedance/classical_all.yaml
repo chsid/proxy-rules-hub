@@ -3,7 +3,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (369 rules)
+  # DOMAIN-SUFFIX (370 rules)
   - DOMAIN-SUFFIX,bcy.net
   - DOMAIN-SUFFIX,dou.top
   - DOMAIN-SUFFIX,trae.cn
@@ -66,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,muyewx.com
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,qmoji.mobi
+  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toscdn.com
   - DOMAIN-SUFFIX,ttbyte.com
   - DOMAIN-SUFFIX,ttbyte.net

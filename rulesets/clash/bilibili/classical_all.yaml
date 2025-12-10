@@ -3,8 +3,9 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (53 rules)
+  # DOMAIN (55 rules)
   - DOMAIN,p.bstarstatic.com
+  - DOMAIN,apiintl.biliapi.net
   - DOMAIN,222-188-6-1.ksyungslb.com
   - DOMAIN,36-25-252-1.ksyungslb.com
   - DOMAIN,180-101-74-1.ksyungslb.com
@@ -15,6 +16,7 @@ payload:
   - DOMAIN,p-bstarstatic.akamaized.net
   - DOMAIN,114-236-92-129.ksyungslb.com
   - DOMAIN,112-81-125-43.dhost.00cdn.com
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,4go41hcjtgazdoctqge4o.ourdvsss.com
   - DOMAIN,3ge3drmttga5nhcbqge3ur.ourdvsss.com
   - DOMAIN,3geauymtsgrzdnqbofa5do.ourdvsss.com

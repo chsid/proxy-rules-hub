@@ -3,3 +3,6 @@
 # and ipcidr.list (IP-CIDR/IP-CIDR6)
 # Rules are optimized and sorted for best performance
 payload:
+
+  # DOMAIN-KEYWORD (1 rules)
+  - DOMAIN-KEYWORD,samsung

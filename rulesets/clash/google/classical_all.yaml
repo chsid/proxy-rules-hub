@@ -6,11 +6,12 @@ payload:
   # DOMAIN (1 rules)
   - DOMAIN,voice.telephony.goog
 
-  # DOMAIN-SUFFIX (691 rules)
+  # DOMAIN-SUFFIX (699 rules)
   - DOMAIN-SUFFIX,g.cn
   - DOMAIN-SUFFIX,g.co
   - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,g.dev
+  - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,g.page
   - DOMAIN-SUFFIX,gcr.io
@@ -46,6 +47,8 @@ payload:
   - DOMAIN-SUFFIX,deps.dev
   - DOMAIN-SUFFIX,get.page
   - DOMAIN-SUFFIX,gvt0.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,gvt5.com
   - DOMAIN-SUFFIX,gvt6.com
@@ -57,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,nest.com
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,waze.com
+  - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
   - DOMAIN-SUFFIX,admob.com
@@ -71,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,deps.info
   - DOMAIN-SUFFIX,g-tun.com
   - DOMAIN-SUFFIX,getmdl.io
+  - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,godoc.org
   - DOMAIN-SUFFIX,gogle.com
@@ -188,6 +193,7 @@ payload:
   - DOMAIN-SUFFIX,txvia.com
   - DOMAIN-SUFFIX,waymo.com
   - DOMAIN-SUFFIX,x.company
+  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,466453.com
   - DOMAIN-SUFFIX,admeld.com
   - DOMAIN-SUFFIX,apigee.com
@@ -317,6 +323,7 @@ payload:
   - DOMAIN-SUFFIX,quiksee.com
   - DOMAIN-SUFFIX,schemer.com
   - DOMAIN-SUFFIX,txcloud.net
+  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,admob-cn.com
   - DOMAIN-SUFFIX,appbridge.ca
@@ -640,6 +647,7 @@ payload:
   - DOMAIN-SUFFIX,verilystudywatch.com
   - DOMAIN-SUFFIX,verilystudywatch.org
   - DOMAIN-SUFFIX,webappfieldguide.com
+  - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,zukunftswerkstatt.de
   - DOMAIN-SUFFIX,adwords-community.com
   - DOMAIN-SUFFIX,chromeexperiments.com

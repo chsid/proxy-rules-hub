@@ -6,6 +6,7 @@ production-openaicom-storage.azureedge.net
 openaicomproductionae4b.blob.core.windows.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .ai.com
+.sora.com
 .auth0.com
 .sentry.io
 .openai.com
@@ -27,5 +28,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .openaicom.imgix.net
 .chatgpt.livekit.cloud
 .events.statsigapi.net
+.challenges.cloudflare.com
 .client-api.arkoselabs.com
 .openaiapi-site.azureedge.net

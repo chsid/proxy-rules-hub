@@ -6,6 +6,10 @@
 173.192.231.32/27,no-resolve
 208.43.122.128/27,no-resolve
 184.173.128.0/17,no-resolve
+108.168.174.0/16,no-resolve
+174.37.243.0/16,no-resolve
+69.171.235.0/16,no-resolve
+75.126.150.0/16,no-resolve
 18.194.0.0/15,no-resolve
 54.242.0.0/15,no-resolve
 34.224.0.0/12,no-resolve

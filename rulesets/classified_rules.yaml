@@ -1,97 +1,98 @@
 classified_rules:
     2kgames:
-        description: 2K Games 游戏服务
+        description: 2K Games 游戏公司服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/2KGames/2KGames.list
         files: []
         rules: []
     3dm:
-        description: 3dm 游戏资讯服务
+        description: 3DM 游戏网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/3dm/3dm.list
         files: []
         rules: []
     3type:
-        description: 3Type 字体服务
+        description: 3type字体设计服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/3Type/3Type.list
         files: []
         rules: []
     4chan:
-        description: 4chan 论坛
+        description: 4chan 匿名论坛
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/4chan/4chan.list
         files: []
         rules: []
     4paradigm:
-        description: 4Paradigm 科技公司
+        description: 第四范式 AI 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/4Paradigm/4Paradigm.list
         files: []
         rules: []
     6jianfang:
-        description: 6JianFang 视频服务
+        description: 六间房视频直播平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/6JianFang/6JianFang.list
         files: []
         rules: []
     6park:
-        description: 留园网论坛服务
+        description: 留园网 6park 论坛
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/6park/6park.list
         files: []
         rules: []
     8btc:
-        description: 巴比特区块链资讯
+        description: 巴比特区块链媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/8btc/8btc.list
         files: []
         rules: []
     9news:
-        description: 9News澳大利亚新闻
+        description: 澳大利亚 9News 新闻媒体
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/9News/9News.list
         files: []
         rules: []
     9to5:
-        description: 9to5科技资讯网站
+        description: 9to5科技新闻媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/9to5/9to5.list
         files: []
         rules: []
     17zuoye:
-        description: 17zuoye 作业服务
+        description: 一起作业教育平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/17zuoye/17zuoye.list
         files: []
         rules: []
     36kr:
-        description: 36kr 科技资讯服务
+        description: 36氪科技媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/36kr/36kr.list
         files: []
         rules: []
     51job:
-        description: 51Job 招聘服务
+        description: 前程无忧招聘网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/51Job/51Job.list
         files: []
         rules: []
     51nod:
-        description: 51nod编程社区
+        description: 51nod 编程竞赛平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/51nod/51nod.list
         files: []
         rules: []
     "56":
-        description: 56网视频服务
+        description: 56 视频网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/56/56.list
         files: []
         rules: []
-    58tongcheng:
-        description: 58同城生活服务
+    "58":
+        description: 58 同城域名规则
         urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/58.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/58TongCheng/58TongCheng.list
         files: []
         rules: []
@@ -102,15 +103,22 @@ classified_rules:
         files: []
         rules: []
     "178":
-        description: 178 游戏资讯服务
+        description: 178 游戏资讯网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/178/178.list
         files: []
         rules: []
     "360":
-        description: 360 安全服务
+        description: 360 安全及互联网服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/360.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/360.list
+        files: []
+        rules: []
+    360cloud:
+        description: 360 云服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/360Cloud/360Cloud.list
         files: []
         rules: []
     1337x:
@@ -120,19 +128,20 @@ classified_rules:
         files: []
         rules: []
     "4399":
-        description: 4399 游戏服务
+        description: 4399 小游戏平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/4399/4399.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/4399.list
         files: []
         rules: []
     "12306":
-        description: 12306 铁路服务
+        description: 中国铁路 12306 及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/12306/12306.list
         files: []
         rules: []
     "17173":
-        description: 17173 游戏资讯服务
+        description: 17173 游戏门户网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/17173/17173.list
         files: []
@@ -141,107 +150,116 @@ classified_rules:
         description: 中国农业银行服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ABC/ABC.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ABC.list
         files: []
         rules: []
     abematv:
-        description: AbemaTV日本流媒体
+        description: AbemaTV日本流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AbemaTV/AbemaTV.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Abema/Abema.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AbemaTV.list
+        files: []
+        rules: []
+    acceleratedirectsites:
+        description: 国内直连加速站点域名规则
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AccelerateDirectSites.list
         files: []
         rules: []
     accuweather:
-        description: AccuWeather天气服务
+        description: AccuWeather天气预报服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Accuweather/Accuweather.list
         files: []
         rules: []
     acer:
-        description: 宏碁电脑与服务
+        description: 宏碁公司相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Acer/Acer.list
         files: []
         rules: []
     acfun:
-        description: AcFun弹幕视频网
+        description: AcFun弹幕视频网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AcFun/AcFun.list
         files: []
         rules: []
     acplay:
-        description: Acplay 动漫播放服务
+        description: Acplay动漫播放服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Acplay/Acplay.list
         files: []
         rules: []
     actalis:
-        description: Actalis 数字证书服务
+        description: Actalis数字证书服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Actalis/Actalis.list
         files: []
         rules: []
     adcolony:
-        description: AdColony 广告服务
+        description: AdColony广告平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdColony/AdColony.list
         files: []
         rules: []
     addthis:
-        description: AddThis 社交分享工具
+        description: AddThis 社交媒体分享服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Addthis/Addthis.list
         files: []
         rules: []
     addtoany:
-        description: AddToAny 社交分享工具
+        description: AddToAny 社交媒体分享服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AddToAny/AddToAny.list
         files: []
         rules: []
     adguardsdnsfilter:
-        description: AdGuard DNS 过滤器规则
+        description: AdGuard DNS过滤规则
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdGuardSDNSFilter/AdGuardSDNSFilter.list
         files: []
         rules: []
     adidas:
-        description: Adidas 阿迪达斯品牌服务
+        description: Adidas 阿迪达斯运动品牌服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Adidas/Adidas.list
         files: []
         rules: []
     adobe:
-        description: Adobe 软件与服务
+        description: Adobe 软件及云服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Adobe/Adobe.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Adobe.list
         files: []
         rules: []
     adobeactivation:
-        description: Adobe 激活服务
+        description: Adobe 软件激活服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdobeActivation/AdobeActivation.list
         files: []
         rules: []
     advertising:
-        description: 广告拦截规则（完整版）
+        description: 通用广告服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising.list
         files: []
         rules: []
     advertisinglite:
-        description: 广告拦截规则（精简版）
+        description: 精简版广告服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.list
         files: []
         rules: []
     advertisingmitv:
-        description: 小米电视广告
+        description: 小米电视广告服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingMiTV/AdvertisingMiTV.list
         files: []
         rules: []
     advertisingtest:
-        description: 广告测试规则集合
+        description: 广告测试规则
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/AdvertisingTest.list
         files: []
@@ -259,7 +277,7 @@ classified_rules:
         files: []
         rules: []
     afp:
-        description: 法新社新闻服务
+        description: 法新社 AFP 新闻服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AFP/AFP.list
         files: []
@@ -268,6 +286,12 @@ classified_rules:
         description: Agora 声网实时音视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Agora/Agora.list
+        files: []
+        rules: []
+    ai:
+        description: 人工智能服务规则
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AI.list
         files: []
         rules: []
     aiqicha:
@@ -295,13 +319,19 @@ classified_rules:
         files: []
         rules: []
     akamai:
-        description: Akamai CDN 与云服务
+        description: Akamai CDN 及云服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Akamai/Akamai.list
         files: []
         rules: []
+    akamaicloud:
+        description: Akamai云服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/AkamaiCloud/AkamaiCloud.list
+        files: []
+        rules: []
     ali213:
-        description: 游侠网游戏资讯与社区
+        description: 游侠网游戏资讯服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Ali213/Ali213.list
         files: []
@@ -310,6 +340,7 @@ classified_rules:
         description: 阿里巴巴集团服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Alibaba/Alibaba.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
         files: []
         rules: []
     alipay:
@@ -319,79 +350,67 @@ classified_rules:
         files: []
         rules: []
     aljazeera:
-        description: 半岛电视台新闻服务
+        description: 半岛电视台媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ALJazeera/ALJazeera.list
         files: []
         rules: []
     all4:
-        description: All4 流媒体服务
+        description: All 4 英国电视点播服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/All4/All4.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/All4.list
         files: []
         rules: []
     amazon:
-        description: 亚马逊全球服务
+        description: 亚马逊综合服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Amazon/Amazon.list
-        files: []
-        rules: []
-    amazoncn:
-        description: 亚马逊中国服务
-        urls:
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonCN/AmazonCN.list
-        files: []
-        rules: []
-    amazonip:
-        description: 亚马逊IP地址段
-        urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonIP/AmazonIP.list
-        files: []
-        rules: []
-    amazonprimevideo:
-        description: 亚马逊Prime Video流媒体服务
-        urls:
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonPrimeVideo/AmazonPrimeVideo.list
-        files: []
-        rules: []
-    amazontrust:
-        description: 亚马逊信任服务
-        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AmazonIp.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonTrust/AmazonTrust.list
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonCN/AmazonCN.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Amazon.list
+        files: []
+        rules: []
+    amazoncloud:
+        description: 亚马逊云服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/AmazonCloud/AmazonCloud.list
         files: []
         rules: []
     amd:
-        description: AMD硬件与服务
+        description: AMD公司相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AMD/AMD.list
         files: []
         rules: []
     americasvoice:
-        description: Americas Voice新闻服务
+        description: 美洲之声新闻
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Americasvoice/Americasvoice.list
         files: []
         rules: []
     amp:
-        description: AMP网页加速项目
+        description: AMP加速移动页面服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AMP/AMP.list
         files: []
         rules: []
     anaconda:
-        description: Anaconda Python发行版服务
+        description: Anaconda Python 发行版
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Anaconda/Anaconda.list
         files: []
         rules: []
     anandtech:
-        description: AnandTech科技新闻网站
+        description: AnandTech 科技网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AnandTech/AnandTech.list
         files: []
         rules: []
     android:
-        description: Android谷歌服务
+        description: Android 相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Android/Android.list
         files: []
@@ -409,58 +428,60 @@ classified_rules:
         files: []
         rules: []
     anonv:
-        description: Anonv服务
+        description: Anonv 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Anonv/Anonv.list
         files: []
         rules: []
     anthropic:
-        description: Anthropic AI服务（Claude）
+        description: Anthropic AI 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Anthropic/Anthropic.list
         files: []
         rules: []
     antiankeji:
-        description: 安天科技安全服务
+        description: 安天科技
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AnTianKeJi/AnTianKeJi.list
         files: []
         rules: []
     antutu:
-        description: 安兔兔评测服务
+        description: 安兔兔评测
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Antutu/Antutu.list
         files: []
         rules: []
     aol:
-        description: AOL在线服务
+        description: AOL美国在线服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AOL/AOL.list
         files: []
         rules: []
     apifox:
-        description: Apifox API开发工具
+        description: Apifox API 工具
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apifox/Apifox.list
         files: []
         rules: []
     apkcombo:
-        description: APKCombo应用下载
+        description: APKCombo安卓应用下载服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/APKCombo/APKCombo.list
         files: []
         rules: []
     apkpure:
-        description: Apkpure 应用商店服务
+        description: APKPure 应用商店
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apkpure/Apkpure.list
         files: []
         rules: []
     apple:
-        description: 苹果公司服务
+        description: 苹果综合服务
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleDev/AppleDev.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
         files: []
         rules: []
     appledaily:
@@ -469,80 +490,76 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleDaily/AppleDaily.list
         files: []
         rules: []
-    appledev:
-        description: 苹果开发者服务
-        urls:
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleDev/AppleDev.list
-        files: []
-        rules: []
     applefirmware:
-        description: 苹果固件与系统更新服务
+        description: Apple 固件更新服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleFirmware/AppleFirmware.list
         files: []
         rules: []
     applehardware:
-        description: 苹果硬件相关服务
+        description: Apple 硬件相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleHardware/AppleHardware.list
         files: []
         rules: []
     appleid:
-        description: 苹果账户 (Apple ID) 服务
+        description: Apple ID 账户服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleID/AppleID.list
         files: []
         rules: []
     applemail:
-        description: 苹果邮件 (iCloud Mail) 服务
+        description: Apple 邮件服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleMail/AppleMail.list
         files: []
         rules: []
     applemedia:
-        description: 苹果媒体内容服务
+        description: Apple 媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleMedia/AppleMedia.list
         files: []
         rules: []
     applemusic:
-        description: 苹果音乐 (Apple Music) 服务
+        description: Apple Music 音乐服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleMusic/AppleMusic.list
         files: []
         rules: []
     applenews:
-        description: 苹果新闻 (Apple News) 服务
+        description: Apple News 新闻服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleNews/AppleNews.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AppleNews.list
         files: []
         rules: []
     appleproxy:
-        description: 苹果代理与内容分发服务
+        description: Apple 代理相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleProxy/AppleProxy.list
         files: []
         rules: []
     appletv:
-        description: 苹果电视 (Apple TV) 服务
+        description: Apple TV 流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleTV/AppleTV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AppleTV.list
         files: []
         rules: []
     applovin:
-        description: AppLovin 移动广告与营销平台
+        description: AppLovin 广告平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppLovin/AppLovin.list
         files: []
         rules: []
     appstore:
-        description: 苹果 App Store 应用商店服务
+        description: 苹果应用商店
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppStore/AppStore.list
         files: []
         rules: []
     arphic:
-        description: 文鼎科技 (Arphic) 字体服务
+        description: 文鼎科技字体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Arphic/Arphic.list
         files: []
@@ -554,19 +571,28 @@ classified_rules:
         files: []
         rules: []
     asianmedia:
-        description: 亚洲流媒体服务
+        description: 亚洲媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AsianMedia/AsianMedia.list
         files: []
         rules: []
+    assassinscreedodyssey:
+        description: 刺客信条
+        urls:
+            - "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Assassin'sCreed/Assassin'sCreed-Odyssey/Assassin'sCreed-Odyssey.list"
+            - "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Assassin'sCreed-Odyssey/Assassin'sCreed-Odyssey.list"
+            - "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list"
+            - "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list"
+        files: []
+        rules: []
     atlassian:
-        description: Atlassian 协作与开发工具服务
+        description: Atlassian 协作与开发工具
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Atlassian/Atlassian.list
         files: []
         rules: []
     atomdata:
-        description: Atomdata 分析数据服务
+        description: Atomdata 数据分析服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Atomdata/Atomdata.list
         files: []
@@ -578,15 +604,23 @@ classified_rules:
         files: []
         rules: []
     bahamut:
-        description: 巴哈姆特电玩资讯站
+        description: 巴哈姆特游戏与媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
         files: []
         rules: []
     baidu:
-        description: 百度公司服务
+        description: 百度公司综合服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Baidu/Baidu.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Baidu.list
+        files: []
+        rules: []
+    baiducloud:
+        description: 百度云服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/BaiduCloud/BaiduCloud.list
         files: []
         rules: []
     baidutieba:
@@ -596,49 +630,49 @@ classified_rules:
         files: []
         rules: []
     baifendian:
-        description: 百分点科技服务
+        description: 百分点科技相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BaiFenDian/BaiFenDian.list
         files: []
         rules: []
     baishanyunkeji:
-        description: 白山云科技服务
+        description: 白山云科技相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BaiShanYunKeJi/BaiShanYunKeJi.list
         files: []
         rules: []
     banad:
-        description: 屏蔽广告域名
+        description: 广告屏蔽规则
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
         files: []
         rules: []
     baneasylist:
-        description: 屏蔽EasyList广告规则
+        description: 广告/隐私追踪屏蔽规则 (EasyList)
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
         files: []
         rules: []
     baneasylistchina:
-        description: 屏蔽EasyList China广告规则
+        description: 中国区广告屏蔽规则
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
         files: []
         rules: []
     baneasyprivacy:
-        description: 屏蔽EasyPrivacy隐私保护规则
+        description: 隐私追踪屏蔽规则 (EasyPrivacy)
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
         files: []
         rules: []
     banprogramad:
-        description: 屏蔽程序内置广告
+        description: 程序内置广告屏蔽规则
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
         files: []
         rules: []
     baofengyingyin:
-        description: 暴风影音服务
+        description: 暴风影音相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BaoFengYingYin/BaoFengYingYin.list
         files: []
@@ -650,15 +684,22 @@ classified_rules:
         files: []
         rules: []
     battle:
-        description: 暴雪游戏平台 (Battle.net)
+        description: 暴雪游戏平台 Battle.net 相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Battle/Battle.list
         files: []
         rules: []
     bbc:
-        description: 英国广播公司 (BBC) 媒体服务
+        description: BBC 英国广播公司媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BBC/BBC.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BBC.list
+        files: []
+        rules: []
+    bbciplayer:
+        description: BBC iPlayer 流媒体服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BBCiPlayer.list
         files: []
         rules: []
     beats:
@@ -668,62 +709,72 @@ classified_rules:
         files: []
         rules: []
     bestbuy:
-        description: 百思买 (Best Buy) 服务
+        description: 百思买购物平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bestbuy/Bestbuy.list
         files: []
         rules: []
     bestore:
-        description: BeStore 服务
+        description: BeStore 相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BeStore/BeStore.list
         files: []
         rules: []
     bestv:
-        description: 百视通 (BesTV) 服务
+        description: 百视通 IPTV 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BesTV/BesTV.list
         files: []
         rules: []
     bianfeng:
-        description: 边锋网络游戏服务
+        description: 边锋网络游戏相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BianFeng/BianFeng.list
         files: []
         rules: []
     bilibili:
-        description: 哔哩哔哩 (Bilibili) 国内版服务
+        description: 哔哩哔哩国内版
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
+        files: []
+        rules: []
+    bilibilihmt:
+        description: 哔哩哔哩海外版 (Bilibili HMT)
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list
         files: []
         rules: []
     bilibiliintl:
-        description: 哔哩哔哩国际版 (Bilibili.tv) 服务
+        description: 哔哩哔哩国际版
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBiliIntl/BiliBiliIntl.list
         files: []
         rules: []
     binance:
-        description: 币安 (Binance) 加密货币交易所服务
+        description: 币安加密货币交易所
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Binance/Binance.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Binance.list
         files: []
         rules: []
     bing:
-        description: 微软必应搜索及Copilot服务
+        description: 微软必应搜索及相关服务
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Bing.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bing/Bing.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Bing.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bing.list
         files: []
         rules: []
     blizzard:
-        description: 暴雪游戏平台及游戏服务
+        description: 暴雪娱乐公司综合服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Blizzard.list
         files: []
         rules: []
     blockhttpdns:
-        description: 拦截HTTP DNS请求
+        description: 用于阻止HTTP DNS查询的规则
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlockHttpDNS/BlockHttpDNS.list
         files: []
@@ -735,25 +786,25 @@ classified_rules:
         files: []
         rules: []
     blued:
-        description: Blued社交应用及相关服务
+        description: Blued 社交应用
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blued/Blued.list
         files: []
         rules: []
     bmw:
-        description: 宝马汽车相关服务
+        description: BMW 宝马汽车服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BMW/BMW.list
         files: []
         rules: []
     boc:
-        description: 中国银行服务
+        description: 中国银行相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BOC/BOC.list
         files: []
         rules: []
     bocom:
-        description: 交通银行服务
+        description: 交通银行相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BOCOM/BOCOM.list
         files: []
@@ -765,7 +816,7 @@ classified_rules:
         files: []
         rules: []
     boxun:
-        description: 博讯新闻网站
+        description: 博讯新闻相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BoXun/BoXun.list
         files: []
@@ -777,49 +828,50 @@ classified_rules:
         files: []
         rules: []
     britboxuk:
-        description: BritBox英国流媒体服务
+        description: Britbox英国流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BritboxUK/BritboxUK.list
         files: []
         rules: []
     buypass:
-        description: Buypass SSL证书服务
+        description: Buypass数字证书服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Buypass/Buypass.list
         files: []
         rules: []
     bytedance:
-        description: 字节跳动公司产品及服务
+        description: 字节跳动公司相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ByteDance/ByteDance.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list
         files: []
         rules: []
     cabletv:
-        description: 香港有线电视相关服务
+        description: 香港有线电视
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CableTV/CableTV.list
         files: []
         rules: []
     cainiao:
-        description: 菜鸟网络相关服务
+        description: 菜鸟网络物流服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CaiNiao/CaiNiao.list
         files: []
         rules: []
     caixinchuanmei:
-        description: 财新传媒相关服务
+        description: 财新传媒新闻服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CaiXinChuanMei/CaiXinChuanMei.list
         files: []
         rules: []
     cake:
-        description: Cake应用相关服务
+        description: Cake应用服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cake/Cake.list
         files: []
         rules: []
     camera360:
-        description: Camera360相机应用相关服务
+        description: Camera360相机应用
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Camera360/Camera360.list
         files: []
@@ -831,61 +883,62 @@ classified_rules:
         files: []
         rules: []
     cas:
-        description: 中国科学院及相关机构
+        description: 中国科学院相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CAS/CAS.list
         files: []
         rules: []
     cbs:
-        description: CBS哥伦比亚广播公司及流媒体服务
+        description: 哥伦比亚广播公司相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CBS/CBS.list
         files: []
         rules: []
     ccb:
-        description: 中国建设银行服务
+        description: 中国建设银行相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CCB/CCB.list
         files: []
         rules: []
     cctv:
-        description: 中国中央电视台
+        description: 中国中央电视台相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CCTV/CCTV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/CCTV.list
         files: []
         rules: []
     ceb:
-        description: 中国光大银行服务
+        description: 中国光大银行相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CEB/CEB.list
         files: []
         rules: []
     cetv:
-        description: 中国教育电视台
+        description: 中国教育电视台相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CETV/CETV.list
         files: []
         rules: []
     cgb:
-        description: 广发银行服务
+        description: 广发银行相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CGB/CGB.list
         files: []
         rules: []
     chengtongwangpan:
-        description: 城通网盘相关服务
+        description: 城通网盘文件存储服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChengTongWangPan/ChengTongWangPan.list
         files: []
         rules: []
     china:
-        description: 中国大陆地区域名集合
+        description: 中国大陆域名集合
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/China.list
         files: []
         rules: []
     chinacompanyip:
-        description: 中国大陆公司IP地址段
+        description: 中国公司 IP 地址段
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
         files: []
@@ -894,16 +947,17 @@ classified_rules:
         description: 中国大陆DNS服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaDNS/ChinaDNS.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ChinaDNS.list
         files: []
         rules: []
     chinadomain:
-        description: 中国大陆域名
+        description: 中国域名
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
         files: []
         rules: []
     chinaip:
-        description: 中国大陆IP地址段
+        description: 中国 IP 地址段 (IPv4)
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
         files: []
@@ -920,117 +974,135 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaIPsBGP/ChinaIPsBGP.list
         files: []
         rules: []
+    chinaipstest:
+        description: 中国大陆IP地址段测试版
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list
+        files: []
+        rules: []
     chinaipv6:
-        description: 中国大陆IPv6地址段
+        description: 中国 IP 地址段 (IPv6)
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIpV6.list
         files: []
         rules: []
     chinamax:
-        description: 中国大陆地区域名和IP最大集合
+        description: 中国大陆域名和IP最大集合
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax.list
         files: []
         rules: []
     chinamaxnoip:
-        description: 中国大陆域名规则（不含IP规则）
+        description: 中国大陆域名最大集合（不含IP）
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.list
         files: []
         rules: []
     chinamaxnomedia:
-        description: 中国大陆域名规则（不含媒体服务）
+        description: 中国大陆非媒体服务（大范围）
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.list
         files: []
         rules: []
     chinamedia:
-        description: 中国大陆流媒体服务
+        description: 中国大陆媒体服务
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
         files: []
         rules: []
     chinamobile:
-        description: 中国移动相关服务
+        description: 中国移动服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMobile/ChinaMobile.list
         files: []
         rules: []
+    chinanet:
+        description: 中国网络服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ChinaNet.list
+        files: []
+        rules: []
     chinanews:
-        description: 中国大陆新闻媒体
+        description: 中国大陆新闻服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaNews/ChinaNews.list
         files: []
         rules: []
     chinanomedia:
-        description: 中国大陆域名规则（不含媒体服务，精简版）
+        description: 中国大陆非媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaNoMedia/ChinaNoMedia.list
         files: []
         rules: []
+    chinaonekeylogin:
+        description: 中国运营商一键登录服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ChinaOneKeyLogin.list
+        files: []
+        rules: []
     chinatelecom:
-        description: 中国电信相关服务
+        description: 中国电信服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTelecom/ChinaTelecom.list
         files: []
         rules: []
     chinatest:
-        description: 中国大陆域名测试规则
+        description: 中国大陆测试服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/ChinaTest.list
         files: []
         rules: []
     chinaunicom:
-        description: 中国联通相关服务
+        description: 中国联通服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaUnicom/ChinaUnicom.list
         files: []
         rules: []
     chromecast:
-        description: Google Chromecast 服务
+        description: Chromecast服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Chromecast/Chromecast.list
         files: []
         rules: []
     cht:
-        description: 中华电信服务
+        description: 中华电信相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CHT/CHT.list
         files: []
         rules: []
     chuangketie:
-        description: 创客贴设计平台
+        description: 创客贴服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChuangKeTie/ChuangKeTie.list
         files: []
         rules: []
     chunyou:
-        description: 春游游戏相关服务
+        description: 春游服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChunYou/ChunYou.list
         files: []
         rules: []
     cibn:
-        description: CIBN互联网电视相关服务
+        description: 国广东方网络服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CIBN/CIBN.list
         files: []
         rules: []
     cisco:
-        description: 思科（Cisco）相关服务
+        description: 思科服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cisco/Cisco.list
         files: []
         rules: []
     civitai:
-        description: Civitai AI 模型分享平台
+        description: Civitai AI绘画社区服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Civitai/Civitai.list
         files: []
         rules: []
     ckjr:
-        description: 创客匠人知识付费平台
+        description: 创客匠人相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CKJR/CKJR.list
         files: []
@@ -1042,13 +1114,21 @@ classified_rules:
         files: []
         rules: []
     claude:
-        description: Anthropic Claude AI 服务
+        description: Claude AI服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Claude.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ClaudeAI.list
+        files: []
+        rules: []
+    cloudcn:
+        description: 中国大陆云服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudCN/CloudCN.list
         files: []
         rules: []
     cloudflare:
-        description: Cloudflare 全球服务
+        description: Cloudflare 全球 CDN 及网络服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloudflare/Cloudflare.list
         files: []
@@ -1059,14 +1139,20 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloudflarecn/Cloudflarecn.list
         files: []
         rules: []
+    cloudglobal:
+        description: 全球云服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudGlobal/CloudGlobal.list
+        files: []
+        rules: []
     clubhouse:
-        description: Clubhouse 音频社交平台
+        description: Clubhouse 音频社交应用 (域名规则)
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Clubhouse/Clubhouse.list
         files: []
         rules: []
     clubhouseip:
-        description: Clubhouse IP 地址规则
+        description: Clubhouse 音频社交应用 (IP 规则)
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ClubhouseIP/ClubhouseIP.list
         files: []
@@ -1077,6 +1163,12 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CMB/CMB.list
         files: []
         rules: []
+    cn:
+        description: 中国域名后缀
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/CN.list
+        files: []
+        rules: []
     cnet:
         description: CNET 科技新闻网站
         urls:
@@ -1084,19 +1176,19 @@ classified_rules:
         files: []
         rules: []
     cnki:
-        description: 中国知网相关服务
+        description: 中国知网学术服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CNKI/CNKI.list
         files: []
         rules: []
     cnn:
-        description: 美国有线电视新闻网相关服务
+        description: 美国有线电视新闻网
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CNN/CNN.list
         files: []
         rules: []
     cnnic:
-        description: 中国互联网络信息中心相关服务
+        description: 中国互联网络信息中心相关域名
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CNNIC/CNNIC.list
         files: []
@@ -1126,43 +1218,44 @@ classified_rules:
         files: []
         rules: []
     copilot:
-        description: GitHub Copilot 及相关AI服务
+        description: GitHub Copilot 人工智能编程助手服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.list
         files: []
         rules: []
     crypto:
-        description: 加密货币相关服务
+        description: 加密货币及区块链相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Crypto/Crypto.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Crypto.list
         files: []
         rules: []
     cryptocurrency:
-        description: 加密货币交易所及资讯平台
+        description: 加密货币交易所及信息平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cryptocurrency/Cryptocurrency.list
         files: []
         rules: []
     csdn:
-        description: CSDN开发者社区相关服务
+        description: CSDN开发者社区
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CSDN/CSDN.list
         files: []
         rules: []
     cwseed:
-        description: CW Seed流媒体服务
+        description: CW Seed视频流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CWSeed/CWSeed.list
         files: []
         rules: []
     cybertrust:
-        description: CyberTrust 安全认证服务
+        description: CyberTrust 网络安全认证服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/CyberTrust/CyberTrust.list
         files: []
         rules: []
     dailymail:
-        description: 每日邮报新闻媒体
+        description: 每日邮报新闻媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Dailymail/Dailymail.list
         files: []
@@ -1180,19 +1273,19 @@ classified_rules:
         files: []
         rules: []
     dandanplay:
-        description: 弹弹Play 弹幕播放器
+        description: 弹弹Play 弹幕视频播放器
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Dandanplay/Dandanplay.list
         files: []
         rules: []
     dandanzan:
-        description: 弹弹赞 视频资源网站
+        description: 弹弹赞视频资源网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DanDanZan/DanDanZan.list
         files: []
         rules: []
     dangdang:
-        description: 当当网电商平台
+        description: 当当网图书电商服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DangDang/DangDang.list
         files: []
@@ -1201,16 +1294,17 @@ classified_rules:
         description: DAZN 体育流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DAZN/DAZN.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DAZN.list
         files: []
         rules: []
     dedao:
-        description: 得到知识服务平台
+        description: 得到知识付费平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Dedao/Dedao.list
         files: []
         rules: []
     deepin:
-        description: 深度操作系统
+        description: 深度操作系统相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Deepin/Deepin.list
         files: []
@@ -1219,18 +1313,20 @@ classified_rules:
         description: Deezer 音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Deezer/Deezer.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Deezer.list
         files: []
         rules: []
     dell:
-        description: 戴尔 (Dell) 及相关服务 (如 AirWatch)
+        description: 戴尔公司相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Dell/Dell.list
         files: []
         rules: []
     developer:
-        description: 开发者服务 (Apple 相关)
+        description: 开发者相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Developer/Developer.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Developer.list
         files: []
         rules: []
     diabloiii:
@@ -1240,7 +1336,7 @@ classified_rules:
         files: []
         rules: []
     diancewangke:
-        description: 点测网课 (蒲公英等应用分发平台)
+        description: 点测网课相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DianCeWangKe/DianCeWangKe.list
         files: []
@@ -1249,10 +1345,11 @@ classified_rules:
         description: 滴滴出行服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DiDi/DiDi.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DiDi.list
         files: []
         rules: []
     digicert:
-        description: DigiCert 证书颁发机构
+        description: DigiCert 数字证书服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DigiCert/DigiCert.list
         files: []
@@ -1264,91 +1361,102 @@ classified_rules:
         files: []
         rules: []
     dilianwangluo:
-        description: 帝联网络 (CDN 服务)
+        description: 帝联网络 CDN 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DiLianWangLuo/DiLianWangLuo.list
         files: []
         rules: []
     dingtalk:
-        description: 钉钉 (DingTalk) 办公通讯服务
+        description: 钉钉办公协作服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DingTalk/DingTalk.list
         files: []
         rules: []
     dingxiangyuan:
-        description: 丁香园 (医疗健康服务平台)
+        description: 丁香园医疗健康服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DingXiangYuan/DingXiangYuan.list
         files: []
         rules: []
     direct:
-        description: 直连 (Direct) 规则集合
+        description: 直连规则集合
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.list
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdGuardSDNSFilter/Direct/Direct.list
         files: []
         rules: []
     discord:
-        description: Discord 社交与游戏语音平台
+        description: Discord 社交聊天服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Discord/Discord.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Discord.list
         files: []
         rules: []
     discoveryplus:
         description: Discovery+ 流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DiscoveryPlus/DiscoveryPlus.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DiscoveryPlus.list
         files: []
         rules: []
     disifanshi:
-        description: 第四范式 (AI 与推荐系统服务)
+        description: 第四范式人工智能服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DiSiFanShi/DiSiFanShi.list
         files: []
         rules: []
     disney:
-        description: 迪士尼 (Disney) 及旗下媒体服务 (ABC, 20th Century Studios 等)
+        description: 迪士尼流媒体及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list
         files: []
         rules: []
+    disneyplus:
+        description: Disney+ 流媒体服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DisneyPlus.list
+        files: []
+        rules: []
     disqus:
-        description: Disqus 评论系统
+        description: Disqus 评论系统服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disqus/Disqus.list
         files: []
         rules: []
     dmm:
-        description: DMM 日本数字内容平台
+        description: DMM 日本在线娱乐与游戏平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DMM/DMM.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Dmm.list
         files: []
         rules: []
     dns:
-        description: DNS 解析服务
+        description: DNS 解析与公共 DNS 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DNS/DNS.list
         files: []
         rules: []
     docker:
-        description: Docker 容器平台
+        description: Docker 容器服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Docker/Docker.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Docker.list
         files: []
         rules: []
     domob:
-        description: 多盟 (Domob) 广告服务
+        description: 多盟广告服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Domob/Domob.list
         files: []
         rules: []
     dood:
-        description: Dood 视频流媒体服务
+        description: Dood 视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Dood/Dood.list
         files: []
         rules: []
     douban:
-        description: 豆瓣 (DouBan) 社区与媒体服务
+        description: 豆瓣社区服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DouBan/DouBan.list
         files: []
@@ -1360,16 +1468,18 @@ classified_rules:
         files: []
         rules: []
     douyu:
-        description: 斗鱼直播平台
+        description: 斗鱼直播服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Douyu/Douyu.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Douyu.list
         files: []
         rules: []
     download:
-        description: 下载工具进程
+        description: 下载工具相关服务
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Download.list
         files: []
         rules: []
     dropbox:
@@ -1379,7 +1489,7 @@ classified_rules:
         files: []
         rules: []
     dtdns:
-        description: 动态 DNS 服务（DtDNS）
+        description: 动态 DNS 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DtDNS/DtDNS.list
         files: []
@@ -1388,10 +1498,11 @@ classified_rules:
         description: Dubox 网盘服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Dubox/Dubox.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Dubox.list
         files: []
         rules: []
     duckduckgo:
-        description: DuckDuckGo 搜索引擎
+        description: DuckDuckGo 搜索引擎服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Duckduckgo/Duckduckgo.list
         files: []
@@ -1403,13 +1514,13 @@ classified_rules:
         files: []
         rules: []
     duowan:
-        description: 多玩游戏网及相关服务
+        description: 多玩游戏网服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DuoWan/DuoWan.list
         files: []
         rules: []
     dyndns:
-        description: DynDNS 动态域名服务
+        description: DynDNS 动态域名解析服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DynDNS/DynDNS.list
         files: []
@@ -1421,13 +1532,13 @@ classified_rules:
         files: []
         rules: []
     ea:
-        description: Electronic Arts 游戏与服务（如 Apex Legends、Anthem）
+        description: 艺电游戏公司及其游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list
         files: []
         rules: []
     eastmoney:
-        description: 东方财富网金融服务
+        description: 东方财富网财经服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EastMoney/EastMoney.list
         files: []
@@ -1439,25 +1550,26 @@ classified_rules:
         files: []
         rules: []
     ebay:
-        description: eBay 电子商务平台
+        description: eBay 在线购物和拍卖平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/eBay/eBay.list
         files: []
         rules: []
     ehgallery:
-        description: E-Hentai 画廊
+        description: E-Hentai 画廊网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EHGallery/EHGallery.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/EHGallery.list
         files: []
         rules: []
     electron:
-        description: Electron 框架相关
+        description: Electron 跨平台桌面应用框架
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Electron/Electron.list
         files: []
         rules: []
     eleme:
-        description: 饿了么外卖服务
+        description: 饿了么外卖订餐服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Eleme/Eleme.list
         files: []
@@ -1469,21 +1581,22 @@ classified_rules:
         files: []
         rules: []
     emby:
-        description: Emby 媒体服务器
+        description: Emby 媒体服务器软件
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Emby/Emby.list
         files: []
         rules: []
     emojipedia:
-        description: Emojipedia 表情符号百科服务
+        description: Emojipedia 表情符号百科
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Emojipedia/Emojipedia.list
         files: []
         rules: []
     encoretvb:
-        description: EncoreTVB 电视广播服务
+        description: TVB 旗下流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EncoreTVB/EncoreTVB.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/EncoreTVB.list
         files: []
         rules: []
     entrust:
@@ -1493,105 +1606,114 @@ classified_rules:
         files: []
         rules: []
     epic:
-        description: Epic Games 游戏平台与服务
+        description: Epic Games 游戏平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
         files: []
         rules: []
     espn:
-        description: ESPN 体育电视网络服务
+        description: ESPN 体育电视网
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Espn/Espn.list
         files: []
         rules: []
+    f1:
+        description: F1 赛车相关服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/F1.list
+        files: []
+        rules: []
     facebook:
-        description: Facebook 社交媒体服务
+        description: Facebook 社交媒体平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Facebook/Facebook.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list
         files: []
         rules: []
     fanfou:
-        description: 饭否 社交媒体服务
+        description: 饭否微博客服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FanFou/FanFou.list
         files: []
         rules: []
     fangzhengdianzi:
-        description: 方正电子 字体和出版软件服务
+        description: 方正电子相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FangZhengDianZi/FangZhengDianZi.list
         files: []
         rules: []
     faronics:
-        description: Faronics 系统管理和安全软件服务
+        description: Faronics 软件服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Faronics/Faronics.list
         files: []
         rules: []
     feizhu:
-        description: 飞猪 旅行服务平台
+        description: 飞猪旅行服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FeiZhu/FeiZhu.list
         files: []
         rules: []
     fenghuangwang:
-        description: 凤凰网 新闻媒体服务
+        description: 凤凰网媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FengHuangWang/FengHuangWang.list
         files: []
         rules: []
     fengxiawangluo:
-        description: 风侠网络 游戏和娱乐网站
+        description: 风侠网络游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FengXiaWangLuo/FengXiaWangLuo.list
         files: []
         rules: []
     figma:
-        description: Figma 设计协作平台
+        description: Figma 设计工具
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Figma/Figma.list
         files: []
         rules: []
     fiio:
-        description: 飞傲 音频设备服务
+        description: 飞傲音频设备服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Fiio/Fiio.list
         files: []
         rules: []
     findmy:
-        description: 苹果 Find My 设备查找服务
+        description: 苹果查找服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FindMy/FindMy.list
         files: []
         rules: []
     fitnessplus:
-        description: 苹果 Fitness+ 健身服务
+        description: 苹果健身+服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FitnessPlus/FitnessPlus.list
         files: []
         rules: []
     flipboard:
-        description: Flipboard 新闻聚合应用
+        description: Flipboard 新闻聚合服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FlipBoard/FlipBoard.list
         files: []
         rules: []
     flurry:
-        description: Flurry 移动应用分析服务
+        description: Flurry 数据分析服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Flurry/Flurry.list
         files: []
         rules: []
     fox:
-        description: Fox 福克斯娱乐集团服务
+        description: Fox 媒体网络服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Fox/Fox.list
         files: []
         rules: []
     foxnow:
-        description: FOXNOW 流媒体服务
+        description: FOX 电视台流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FOXNOW/FOXNOW.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/FoxNow.list
         files: []
         rules: []
     foxplus:
@@ -1607,27 +1729,40 @@ classified_rules:
         files: []
         rules: []
     friday:
-        description: friDay 影音服务
+        description: friDay 影音（台湾远传电信服务）
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/friDay/friDay.list
         files: []
         rules: []
     fubotv:
-        description: FuboTV 流媒体电视服务
+        description: FuboTV 流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FuboTV/FuboTV.list
         files: []
         rules: []
     funshion:
-        description: 风行视频服务
+        description: 风行网视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Funshion/Funshion.list
         files: []
         rules: []
     game:
-        description: 游戏相关服务
+        description: 综合游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.list
+        files: []
+        rules: []
+    gamedownload:
+        description: 游戏下载服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GameDownload.list
+        files: []
+        rules: []
+    gamedownloadcn:
+        description: 中国大陆游戏下载服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.list
         files: []
         rules: []
     gaode:
@@ -1637,7 +1772,7 @@ classified_rules:
         files: []
         rules: []
     garena:
-        description: Garena 游戏平台
+        description: Garena 游戏平台服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Garena/Garena.list
         files: []
@@ -1652,6 +1787,7 @@ classified_rules:
         description: Google Gemini AI 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Gemini.list
         files: []
         rules: []
     gettyimages:
@@ -1673,19 +1809,20 @@ classified_rules:
         files: []
         rules: []
     gitee:
-        description: Gitee 代码托管平台
+        description: Gitee 代码托管服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gitee/Gitee.list
         files: []
         rules: []
     github:
-        description: GitHub 代码托管平台
+        description: GitHub 代码托管服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list
         files: []
         rules: []
     gitlab:
-        description: GitLab 代码托管平台
+        description: GitLab 代码托管服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitLab/GitLab.list
         files: []
@@ -1697,7 +1834,7 @@ classified_rules:
         files: []
         rules: []
     globalmedia:
-        description: 全球媒体服务
+        description: 全球流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list
         files: []
@@ -1709,13 +1846,13 @@ classified_rules:
         files: []
         rules: []
     globalsign:
-        description: GlobalSign 数字证书服务
+        description: GlobalSign 证书服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalSign/GlobalSign.list
         files: []
         rules: []
     gog:
-        description: GOG 游戏平台
+        description: GOG 游戏平台服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gog/Gog.list
         files: []
@@ -1724,12 +1861,20 @@ classified_rules:
         description: Google 核心服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
         files: []
         rules: []
     googlecn:
-        description: 谷歌中国服务
+        description: Google 中国服务域名规则
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
+        files: []
+        rules: []
+    googlecnproxyip:
+        description: Google 中国代理 IP
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
         files: []
         rules: []
     googledrive:
@@ -1739,15 +1884,17 @@ classified_rules:
         files: []
         rules: []
     googleearth:
-        description: Google Earth 地图服务
+        description: Google Earth 地球服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GoogleEarth/GoogleEarth.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleEarth.list
         files: []
         rules: []
     googlefcm:
-        description: Google Firebase Cloud Messaging 服务
+        description: Google Firebase Cloud Messaging 推送服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GoogleFCM/GoogleFCM.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
         files: []
         rules: []
     googlesearch:
@@ -1781,25 +1928,25 @@ classified_rules:
         files: []
         rules: []
     hainanhangkong:
-        description: 海南航空公司服务
+        description: 海南航空公司
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HaiNanHangKong/HaiNanHangKong.list
         files: []
         rules: []
     hamivideo:
-        description: Hami Video 影音服务
+        description: HamiVideo 影音服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HamiVideo/HamiVideo.list
         files: []
         rules: []
     hanyi:
-        description: 汉仪字库字体服务
+        description: 汉仪字库
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HanYi/HanYi.list
         files: []
         rules: []
     hashicorp:
-        description: HashiCorp 基础设施软件
+        description: HashiCorp 基础设施自动化软件服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HashiCorp/HashiCorp.list
         files: []
@@ -1810,38 +1957,45 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Haveibeenpwned/Haveibeenpwned.list
         files: []
         rules: []
+    hbgohkg:
+        description: HBO GO 香港服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/HBO_GO_HKG.list
+        files: []
+        rules: []
     hbo:
-        description: HBO 全球流媒体服务
+        description: HBO 通用服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBO/HBO.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/HBO.list
         files: []
         rules: []
     hboasia:
-        description: HBO 亚洲区流媒体服务
+        description: HBO 亚洲区服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBOAsia/HBOAsia.list
         files: []
         rules: []
     hbohk:
-        description: HBO 香港区流媒体服务
+        description: HBO 香港区服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBOHK/HBOHK.list
         files: []
         rules: []
     hbousa:
-        description: HBO 美国区流媒体服务
+        description: HBO 美国区服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBOUSA/HBOUSA.list
         files: []
         rules: []
     hearthstone:
-        description: 炉石传说游戏服务
+        description: 炉石传说游戏
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Hearthstone/Hearthstone.list
         files: []
         rules: []
     hema:
-        description: 盒马鲜生购物服务
+        description: 盒马鲜生零售服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HeMa/HeMa.list
         files: []
@@ -1858,6 +2012,12 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Heroku/Heroku.list
         files: []
         rules: []
+    heytap:
+        description: Heytap (OPPO/一加) 服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Heytap.list
+        files: []
+        rules: []
     hibymusic:
         description: 海贝音乐服务
         urls:
@@ -1865,15 +2025,21 @@ classified_rules:
         files: []
         rules: []
     hijacking:
-        description: 劫持类域名集合
+        description: 域名劫持相关域名
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Hijacking/Hijacking.list
         files: []
         rules: []
     himalaya:
-        description: 喜马拉雅音频服务
+        description: 喜马拉雅音频平台服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Himalaya/Himalaya.list
+        files: []
+        rules: []
+    hinet:
+        description: 中华电信 HiNet 云服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/HiNet/HiNet.list
         files: []
         rules: []
     hkbn:
@@ -1883,13 +2049,13 @@ classified_rules:
         files: []
         rules: []
     hkedcity:
-        description: 香港教育城教育服务
+        description: 香港教育城
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HKedcity/HKedcity.list
         files: []
         rules: []
     hkgolden:
-        description: 香港高登论坛
+        description: 香港高登讨论区
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Hkgolden/Hkgolden.list
         files: []
@@ -1901,25 +2067,25 @@ classified_rules:
         files: []
         rules: []
     hoyoverse:
-        description: 米哈游游戏服务
+        description: 米哈游游戏及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HoYoverse/HoYoverse.list
         files: []
         rules: []
     hp:
-        description: 惠普公司产品与服务
+        description: 惠普公司服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HP/HP.list
         files: []
         rules: []
     hpplay:
-        description: 华为视频投屏服务
+        description: 华为视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Hpplay/Hpplay.list
         files: []
         rules: []
     huanju:
-        description: 欢聚集团相关服务
+        description: 欢聚集团服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HuanJu/HuanJu.list
         files: []
@@ -1934,6 +2100,13 @@ classified_rules:
         description: 华为公司服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Huawei/Huawei.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/HuaWei.list
+        files: []
+        rules: []
+    huaweicloud:
+        description: 华为云 Huawei Cloud 服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/HuaweiCloud/HuaweiCloud.list
         files: []
         rules: []
     huffpost:
@@ -1946,11 +2119,13 @@ classified_rules:
         description: Hulu 流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Hulu/Hulu.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Hulu.list
         files: []
         rules: []
-    hulujp:
+    hulujapan:
         description: Hulu 日本服务
         urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/HuluJapan.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HuluJP/HuluJP.list
         files: []
         rules: []
@@ -1961,7 +2136,7 @@ classified_rules:
         files: []
         rules: []
     hunantv:
-        description: 湖南卫视/芒果TV相关服务
+        description: 湖南卫视/芒果TV服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HunanTV/HunanTV.list
         files: []
@@ -1982,10 +2157,11 @@ classified_rules:
         description: 华文电视
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HWTV/HWTV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/HWTV.list
         files: []
         rules: []
     ibm:
-        description: IBM云计算及技术服务
+        description: IBM 云服务与产品
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/IBM/IBM.list
         files: []
@@ -2003,19 +2179,19 @@ classified_rules:
         files: []
         rules: []
     icloudprivaterelay:
-        description: Apple iCloud 私密转送服务
+        description: Apple iCloud 私密中继服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/iCloudPrivateRelay/iCloudPrivateRelay.list
         files: []
         rules: []
     identrust:
-        description: Identrust数字证书服务
+        description: Identrust 数字证书服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Identrust/Identrust.list
         files: []
         rules: []
     ifanr:
-        description: 爱范儿媒体服务
+        description: 爱范儿服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ifanr/ifanr.list
         files: []
@@ -2024,6 +2200,7 @@ classified_rules:
         description: 科大讯飞服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/iFlytek/iFlytek.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Iflytek.list
         files: []
         rules: []
     ikea:
@@ -2033,43 +2210,44 @@ classified_rules:
         files: []
         rules: []
     imdb:
-        description: IMDB电影数据库服务
+        description: IMDB 电影数据库服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/IMDB/IMDB.list
         files: []
         rules: []
     imgur:
-        description: Imgur图片分享服务
+        description: Imgur 图片分享服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Imgur/Imgur.list
         files: []
         rules: []
     instagram:
-        description: Instagram社交媒体服务
+        description: Instagram 社交媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Instagram/Instagram.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list
         files: []
         rules: []
     intel:
-        description: 英特尔公司相关服务
+        description: 英特尔公司服务与产品
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Intel/Intel.list
         files: []
         rules: []
     intercom:
-        description: Intercom客户沟通平台
+        description: Intercom 客户沟通平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Intercom/Intercom.list
         files: []
         rules: []
     iptvmainland:
-        description: 中国大陆IPTV服务
+        description: 中国大陆 IPTV 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/IPTVMainland/IPTVMainland.list
         files: []
         rules: []
     iptvother:
-        description: 其他地区IPTV服务
+        description: 其他地区 IPTV 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/IPTVOther/IPTVOther.list
         files: []
@@ -2078,6 +2256,13 @@ classified_rules:
         description: 爱奇艺国内服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/iQIYI/iQIYI.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Iqiyi.list
+        files: []
+        rules: []
+    iqiyihmt:
+        description: 爱奇艺海外版服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/IqiyiHMT.list
         files: []
         rules: []
     iqiyiintl:
@@ -2093,25 +2278,40 @@ classified_rules:
         files: []
         rules: []
     itv:
-        description: 英国ITV电视台服务
+        description: 英国 ITV 电视台服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ITV/ITV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ITV.list
+        files: []
+        rules: []
+    iwara:
+        description: Iwara 视频分享平台
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Iwara.list
         files: []
         rules: []
     japonx:
-        description: Japonx成人视频服务
+        description: Japonx 成人视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Japonx/Japonx.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Japonx.list
+        files: []
+        rules: []
+    jd:
+        description: 京东电商及云服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/JD.list
         files: []
         rules: []
     jetbrains:
-        description: JetBrains开发工具服务
+        description: JetBrains 开发工具服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Jetbrains/Jetbrains.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/JetBrains.list
         files: []
         rules: []
     jfrog:
-        description: JFrog软件制品仓库服务
+        description: JFrog 软件制品仓库服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Jfrog/Jfrog.list
         files: []
@@ -2123,7 +2323,7 @@ classified_rules:
         files: []
         rules: []
     jianshu:
-        description: 简书
+        description: 简书内容社区
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/JianShu/JianShu.list
         files: []
@@ -2135,37 +2335,44 @@ classified_rules:
         files: []
         rules: []
     jingdong:
-        description: 京东
+        description: 京东电商平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/JingDong/JingDong.list
         files: []
         rules: []
+    jingdongcloud:
+        description: 京东云 JingDong Cloud 服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/JingDongCloud/JingDongCloud.list
+        files: []
+        rules: []
     jinjiangwenxue:
-        description: 晋江文学城
+        description: 晋江文学城服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/JinJiangWenXue/JinJiangWenXue.list
         files: []
         rules: []
     joox:
-        description: JOOX音乐流媒体服务
+        description: JOOX 音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/JOOX/JOOX.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/JOOX.list
         files: []
         rules: []
     jquery:
-        description: jQuery 前端框架
+        description: jQuery JavaScript 库
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Jquery/Jquery.list
         files: []
         rules: []
     jsdelivr:
-        description: JsDelivr CDN 服务
+        description: Jsdelivr CDN 服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Jsdelivr/Jsdelivr.list
         files: []
         rules: []
     juejin:
-        description: 掘金
+        description: 掘金技术社区
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/JueJin/JueJin.list
         files: []
@@ -2177,13 +2384,14 @@ classified_rules:
         files: []
         rules: []
     kakaotalk:
-        description: KakaoTalk 通讯与 Daum 服务
+        description: KakaoTalk 即时通讯服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KakaoTalk/KakaoTalk.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/KakaoTalk.list
         files: []
         rules: []
     kantv:
-        description: 看 TV (imkan.tv)
+        description: 看 TV 视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Kantv/Kantv.list
         files: []
@@ -2195,73 +2403,83 @@ classified_rules:
         files: []
         rules: []
     kingsmith:
-        description: 金史密斯 (WalkingPad 走步机)
+        description: 金史密斯健身器材
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KingSmith/KingSmith.list
         files: []
         rules: []
     kingsoft:
-        description: 金山软件
+        description: 金山软件服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Kingsoft/Kingsoft.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Kingsoft.list
+        files: []
+        rules: []
+    kingsoftcloud:
+        description: 金山云 Kingsoft Cloud 服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/KingsoftCloud/KingsoftCloud.list
         files: []
         rules: []
     kkbox:
-        description: KKBOX 音乐服务
+        description: KKBOX 音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KKBOX/KKBOX.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/KKBOX.list
         files: []
         rules: []
     kktv:
-        description: KKTV 视频服务
+        description: KKTV 视频流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KKTV/KKTV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/KKTV.list
         files: []
         rules: []
     koudaishishang:
-        description: 口袋时尚
+        description: 口袋时尚电商平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KouDaiShiShang/KouDaiShiShang.list
         files: []
         rules: []
     ku6:
-        description: 酷6网
+        description: 酷 6 视频网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Ku6/Ku6.list
         files: []
         rules: []
     kuaidi100:
-        description: 快递100
+        description: 快递100物流查询服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KuaiDi100/KuaiDi100.list
         files: []
         rules: []
     kuaishou:
-        description: 快手
+        description: 快手短视频平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KuaiShou/KuaiShou.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Kuaishou.list
         files: []
         rules: []
     kuangshi:
-        description: 旷视科技相关服务
+        description: 旷视科技人工智能服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KuangShi/KuangShi.list
         files: []
         rules: []
     kugoukuwo:
-        description: 酷狗音乐和酷我音乐服务
+        description: 酷狗和酷我音乐服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KugouKuwo/KugouKuwo.list
         files: []
         rules: []
     kukemusic:
-        description: 库客音乐
+        description: 库客音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/KuKeMusic/KuKeMusic.list
         files: []
         rules: []
     lan:
-        description: 局域网与网络设备管理
+        description: 局域网及网络设备管理服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
         files: []
@@ -2273,7 +2491,7 @@ classified_rules:
         files: []
         rules: []
     lastfm:
-        description: Last.fm 音乐服务
+        description: Last.fm 音乐推荐服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LastFM/LastFM.list
         files: []
@@ -2285,25 +2503,26 @@ classified_rules:
         files: []
         rules: []
     leju:
-        description: 乐居房产信息服务
+        description: 乐居房产服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LeJu/LeJu.list
         files: []
         rules: []
     lenovo:
-        description: 联想集团相关服务
+        description: 联想服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lenovo/Lenovo.list
         files: []
         rules: []
     letv:
-        description: 乐视网相关服务
+        description: 乐视视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LeTV/LeTV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/LeTV.list
         files: []
         rules: []
     lg:
-        description: LG 集团相关服务
+        description: LG 电子服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LG/LG.list
         files: []
@@ -2324,12 +2543,14 @@ classified_rules:
         description: Line 即时通讯服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Line/Line.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Line.list
         files: []
         rules: []
     linetv:
         description: Line TV 视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LineTV/LineTV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/LineTV.list
         files: []
         rules: []
     linguee:
@@ -2351,9 +2572,10 @@ classified_rules:
         files: []
         rules: []
     litv:
-        description: LiTV 线上影视服务
+        description: LiTV 视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LiTV/LiTV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/LiTV.list
         files: []
         rules: []
     liveperson:
@@ -2363,19 +2585,19 @@ classified_rules:
         files: []
         rules: []
     localareanetwork:
-        description: 局域网域名
+        description: 局域网和本地网络域名规则
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
         files: []
         rules: []
     logitech:
-        description: 罗技相关服务
+        description: 罗技服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Logitech/Logitech.list
         files: []
         rules: []
     londonreal:
-        description: LondonReal 媒体平台
+        description: LondonReal 媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LondonReal/LondonReal.list
         files: []
@@ -2387,19 +2609,19 @@ classified_rules:
         files: []
         rules: []
     lvmilianchuang:
-        description: 绿米联创（Aqara）智能家居服务
+        description: 绿米联创智能家居服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LvMiLianChuang/LvMiLianChuang.list
         files: []
         rules: []
     mail:
-        description: 通用邮件服务
+        description: 邮件服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Mail/Mail.list
         files: []
         rules: []
     mailru:
-        description: Mail.ru 邮件服务
+        description: Mail.ru邮件服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Mailru/Mailru.list
         files: []
@@ -2411,25 +2633,26 @@ classified_rules:
         files: []
         rules: []
     manorama:
-        description: Manorama 新闻媒体
+        description: Manorama新闻媒体
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Manorama/Manorama.list
         files: []
         rules: []
     maocloud:
-        description: 猫云云服务
+        description: 猫云服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Maocloud/Maocloud.list
         files: []
         rules: []
     marketing:
-        description: 软件营销与激活服务
+        description: 营销与广告服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Marketing/Marketing.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Marketing.list
         files: []
         rules: []
     mcdonalds:
-        description: 麦当劳餐饮服务
+        description: 麦当劳相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/McDonalds/McDonalds.list
         files: []
@@ -2441,38 +2664,52 @@ classified_rules:
         files: []
         rules: []
     meitu:
-        description: 美图公司服务
+        description: 美图公司相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MeiTu/MeiTu.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Meitu.list
         files: []
         rules: []
     meituan:
-        description: 美团生活服务平台
+        description: 美团相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MeiTuan/MeiTuan.list
         files: []
         rules: []
     meizu:
-        description: 魅族科技服务
+        description: 魅族相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MeiZu/MeiZu.list
         files: []
         rules: []
     mewatch:
-        description: MeWatch 视频流媒体服务
+        description: MeWatch视频流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MeWatch/MeWatch.list
         files: []
         rules: []
-    microsoft:
-        description: 微软公司服务
+    mgtvtv:
+        description: 芒果TV视频流媒体服务
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MGTVTV.list
+        files: []
+        rules: []
+    mi:
+        description: 小米（MI）相关服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MI.list
+        files: []
+        rules: []
+    microsoft:
+        description: 微软相关服务
+        urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list
         files: []
         rules: []
     microsoftedge:
-        description: Microsoft Edge 浏览器服务
+        description: Microsoft Edge浏览器相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MicrosoftEdge/MicrosoftEdge.list
         files: []
@@ -2484,25 +2721,26 @@ classified_rules:
         files: []
         rules: []
     mingluezhaohui:
-        description: 策略找回服务（可能包含广告监测相关域名）
+        description: 广告监测与数据服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MingLueZhaoHui/MingLueZhaoHui.list
         files: []
         rules: []
     miuiprivacy:
-        description: MIUI 隐私相关服务
+        description: 小米MIUI隐私相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MIUIPrivacy/MIUIPrivacy.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MIUIPrivacy.list
         files: []
         rules: []
     miwu:
-        description: 米物科技服务
+        description: 米物相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MiWu/MiWu.list
         files: []
         rules: []
     mogujie:
-        description: 蘑菇街电商服务
+        description: 蘑菇街电商平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Mogujie/Mogujie.list
         files: []
@@ -2514,49 +2752,58 @@ classified_rules:
         files: []
         rules: []
     momoshop:
-        description: MOMO 购物平台
+        description: MOMO购物平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MOMOShop/MOMOShop.list
         files: []
         rules: []
+    moo:
+        description: MOO 音乐及腾讯 Midas 服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MOO.list
+        files: []
+        rules: []
     moov:
-        description: MOOV 音乐流媒体服务
+        description: MOOV音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MOOV/MOOV.list
         files: []
         rules: []
     movefree:
-        description: Movefree 服务（可能为健康或运动相关）
+        description: Movefree相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Movefree/Movefree.list
         files: []
         rules: []
     mozilla:
-        description: Mozilla 基金会相关服务（Firefox, Bugzilla 等）
+        description: Mozilla 基金会相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Mozilla/Mozilla.list
         files: []
         rules: []
     my5:
-        description: My5 视频点播服务
+        description: Channel 5 流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/My5/My5.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/My5.list
         files: []
         rules: []
     mytvsuper:
         description: myTV SUPER 电视服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/myTVSUPER/myTVSUPER.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MyTVSuper.list
         files: []
         rules: []
     nasddns:
-        description: NAS 动态 DNS 及相关服务
+        description: 动态 DNS 与网络工具服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NaSDDNS/NaSDDNS.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NaSDDNS.list
         files: []
         rules: []
     naver:
-        description: Naver 韩国门户网站综合服务
+        description: Naver 韩国门户网站
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Naver/Naver.list
         files: []
@@ -2568,28 +2815,38 @@ classified_rules:
         files: []
         rules: []
     nbc:
-        description: NBC 环球媒体服务（CNBC, BravoTV 等）
+        description: NBC 环球媒体集团
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NBC/NBC.list
         files: []
         rules: []
     netease:
-        description: 网易综合服务（邮箱、云等）
+        description: 网易公司综合服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NetEase/NetEase.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEase.list
+        files: []
+        rules: []
+    neteasecloud:
+        description: 网易云 Netease Cloud 服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/NeteaseCloud/NeteaseCloud.list
         files: []
         rules: []
     neteasemusic:
         description: 网易云音乐服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NetEaseMusic/NetEaseMusic.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEaseMusic.list
         files: []
         rules: []
     netflix:
-        description: Netflix流媒体服务
+        description: Netflix 流媒体服务
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Netflix.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Netflix.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetflixIP.list
         files: []
         rules: []
     nga:
@@ -2599,15 +2856,16 @@ classified_rules:
         files: []
         rules: []
     ngaa:
-        description: NGAA 服务（可能为网络负载均衡相关）
+        description: 中国 GSLB 相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NGAA/NGAA.list
         files: []
         rules: []
     niconico:
-        description: Niconico 日本视频弹幕网站
+        description: Niconico 日本视频分享服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Niconico/Niconico.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Niconico.list
         files: []
         rules: []
     nike:
@@ -2616,38 +2874,46 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nike/Nike.list
         files: []
         rules: []
+    nikke:
+        description: Nikke 游戏服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Nikke/Nikke.list
+        files: []
+        rules: []
     nikkei:
-        description: 日本经济新闻社服务
+        description: 日本经济新闻社
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nikkei/Nikkei.list
         files: []
         rules: []
     nintendo:
-        description: 任天堂游戏及服务
+        description: 任天堂游戏与在线服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list
         files: []
         rules: []
     nivodtv:
-        description: 泥巴影院视频服务
+        description: 泥巴影视视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NivodTV/NivodTV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NivodTV.list
         files: []
         rules: []
     notion:
-        description: Notion 笔记与协作平台
+        description: Notion 笔记与协作服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Notion/Notion.list
         files: []
         rules: []
     nowe:
-        description: Now E 流媒体服务
+        description: Now E 香港流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NowE/NowE.list
         files: []
         rules: []
     npmjs:
-        description: Node.js 包管理服务
+        description: NPM JavaScript 包管理服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Npmjs/Npmjs.list
         files: []
@@ -2659,7 +2925,7 @@ classified_rules:
         files: []
         rules: []
     nvidia:
-        description: 英伟达显卡及游戏服务
+        description: Nvidia 显卡及游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nvidia/Nvidia.list
         files: []
@@ -2677,26 +2943,28 @@ classified_rules:
         files: []
         rules: []
     okx:
-        description: OKX 加密货币交易所
+        description: OKX 加密货币交易平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OKX/OKX.list
         files: []
         rules: []
     olevod:
-        description: 欧乐影院视频服务
+        description: Olevod 视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Olevod/Olevod.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Olevod.list
         files: []
         rules: []
     onedrive:
-        description: 微软OneDrive云存储服务
+        description: Microsoft OneDrive 云存储服务
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OneDrive/OneDrive.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list
         files: []
         rules: []
     oneplus:
-        description: 一加手机及服务
+        description: OnePlus 手机及社区服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OnePlus/OnePlus.list
         files: []
@@ -2711,28 +2979,29 @@ classified_rules:
         description: OpenAI 人工智能服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list
         files: []
         rules: []
     opera:
-        description: Opera 浏览器及服务
+        description: Opera 浏览器及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Opera/Opera.list
         files: []
         rules: []
     oppo:
-        description: OPPO 手机及服务
+        description: OPPO 手机及智能设备服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OPPO/OPPO.list
         files: []
         rules: []
     oracle:
-        description: 甲骨文公司服务
+        description: Oracle 云计算及技术服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Oracle/Oracle.list
         files: []
         rules: []
     oreilly:
-        description: O'Reilly 技术媒体与学习平台
+        description: O'Reilly 技术学习平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Oreilly/Oreilly.list
         files: []
@@ -2741,10 +3010,11 @@ classified_rules:
         description: EA Origin 游戏平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Origin/Origin.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Origin.list
         files: []
         rules: []
     oupeng:
-        description: 欧朋浏览器服务
+        description: 欧朋（OuPeng）浏览器服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OuPeng/OuPeng.list
         files: []
@@ -2756,15 +3026,16 @@ classified_rules:
         files: []
         rules: []
     overwatch:
-        description: 守望先锋游戏服务
+        description: 《守望先锋》游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Overwatch/Overwatch.list
         files: []
         rules: []
     pandora:
-        description: Pandora 音乐服务
+        description: Pandora 音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Pandora/Pandora.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Pandora.list
         files: []
         rules: []
     pandoratv:
@@ -2780,39 +3051,46 @@ classified_rules:
         files: []
         rules: []
     patreon:
-        description: Patreon 创作者平台
+        description: Patreon 创作者赞助平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Patreon/Patreon.list
         files: []
         rules: []
     paypal:
-        description: PayPal 支付服务
+        description: PayPal 在线支付服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/PayPal.list
         files: []
         rules: []
     pbs:
-        description: PBS 公共电视服务
+        description: PBS 美国公共广播服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PBS/PBS.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PBS.list
         files: []
         rules: []
     pccw:
-        description: 电讯盈科相关服务
+        description: 电讯盈科（PCCW）电信服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PCCW/PCCW.list
         files: []
         rules: []
     pchome:
-        description: PChome 台湾电商服务
+        description: PChome 在线购物与云服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PChome/PChome.list
         files: []
         rules: []
     pchometw:
-        description: PChome 台湾电商服务
+        description: PChome 台湾站购物与云服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PChomeTW/PChomeTW.list
+        files: []
+        rules: []
+    pdd:
+        description: 拼多多（PDD）电商平台
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PDD.list
         files: []
         rules: []
     peacock:
@@ -2821,62 +3099,75 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Peacock/Peacock.list
         files: []
         rules: []
-    picacg:
-        description: 哔咔漫画服务
-        urls:
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Picacg/Picacg.list
-        files: []
-        rules: []
-    picsee:
-        description: Picsee 短链接服务
-        urls:
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Picsee/Picsee.list
-        files: []
-        rules: []
-    pikpak:
-        description: PikPak 云存储服务
-        urls:
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PikPak/PikPak.list
-        files: []
-        rules: []
-    pinduoduo:
-        description: 拼多多电商服务
-        urls:
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Pinduoduo/Pinduoduo.list
-        files: []
-        rules: []
-    pingan:
+    pengan:
         description: 中国平安相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PingAn/PingAn.list
         files: []
         rules: []
+    picacg:
+        description: 哔咔漫画（Picacg）漫画阅读服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Picacg/Picacg.list
+        files: []
+        rules: []
+    picsee:
+        description: Picsee 图片短链接服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Picsee/Picsee.list
+        files: []
+        rules: []
+    pikpak:
+        description: PikPak 云存储与下载服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PikPak/PikPak.list
+        files: []
+        rules: []
+    pinduoduo:
+        description: 拼多多（Pinduoduo）电商服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Pinduoduo/Pinduoduo.list
+        files: []
+        rules: []
     pinterest:
-        description: Pinterest 图片分享社交平台
+        description: Pinterest 图片社交平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Pinterest/Pinterest.list
         files: []
         rules: []
     pixiv:
-        description: Pixiv 插画社区服务
+        description: Pixiv 插画交流社区
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Pixiv/Pixiv.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Pixiv.list
         files: []
         rules: []
     pixnet:
-        description: Pixnet 痞客邦博客平台
+        description: 痞客邦（Pixnet）博客服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Pixnet/Pixnet.list
         files: []
         rules: []
     playstation:
-        description: PlayStation 索尼游戏机及网络服务
+        description: 索尼 PlayStation 游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PlayStation/PlayStation.list
         files: []
         rules: []
+    porn:
+        description: 成人内容网站集合
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Porn.list
+        files: []
+        rules: []
+    pornhub:
+        description: Pornhub 成人视频网站
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Pornhub.list
+        files: []
+        rules: []
     potatochat:
-        description: PotatoChat 即时通讯应用
+        description: PotatoChat 即时通讯服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PotatoChat/PotatoChat.list
         files: []
@@ -2887,59 +3178,73 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PPTV/PPTV.list
         files: []
         rules: []
-    primevideo:
-        description: Prime Video 亚马逊视频流媒体服务
+    pptvpplive:
+        description: PPTV 和 PPLive 视频服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PPTVPPLive.list
+        files: []
+        rules: []
+    amazonprimevideo:
+        description: Amazon Prime Video 视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PrimeVideo/PrimeVideo.list
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonPrimeVideo/AmazonPrimeVideo.list
         files: []
         rules: []
     privacy:
-        description: 隐私保护相关域名，屏蔽广告和追踪器
+        description: 隐私保护相关域名
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Privacy/Privacy.list
         files: []
         rules: []
     privatetracker:
-        description: Private Tracker 私有种子追踪器
+        description: 私有种子追踪器
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PrivateTracker/PrivateTracker.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PrivateTracker.list
         files: []
         rules: []
     protonmail:
-        description: ProtonMail 加密电子邮件服务
+        description: ProtonMail 加密邮件服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Protonmail/Protonmail.list
         files: []
         rules: []
     proxy:
-        description: 通用代理规则集
+        description: 代理服务相关域名
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.list
         files: []
         rules: []
     proxygfwlist:
-        description: GFWList代理规则
+        description: GFW 代理列表综合规则
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
         files: []
         rules: []
     proxylite:
-        description: 精简版代理规则
+        description: 精简版代理服务相关域名
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ProxyLite/ProxyLite.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
         files: []
         rules: []
     proxymedia:
-        description: 代理媒体服务集合
+        description: 媒体服务代理规则
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
         files: []
         rules: []
     psbc:
-        description: 中国邮政储蓄银行服务
+        description: 中国邮政储蓄银行（PSBC）金融服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PSBC/PSBC.list
+        files: []
+        rules: []
+    publicdirectcdn:
+        description: 公共静态资源 CDN 服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PublicDirectCDN.list
         files: []
         rules: []
     pubmatic:
@@ -2949,13 +3254,13 @@ classified_rules:
         files: []
         rules: []
     purikonejp:
-        description: 《公主连结！Re:Dive》日本版游戏服务
+        description: 日本游戏《公主连结Re:Dive》相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Purikonejp/Purikonejp.list
         files: []
         rules: []
     python:
-        description: Python 编程语言相关网站和服务
+        description: Python 编程语言相关
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Python/Python.list
         files: []
@@ -2967,19 +3272,20 @@ classified_rules:
         files: []
         rules: []
     qiniuyun:
-        description: 七牛云 QiNiuYun 云存储和 CDN 服务
+        description: 七牛云存储服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/QiNiuYun/QiNiuYun.list
         files: []
         rules: []
     qobuz:
-        description: Qobuz 高保真音乐流媒体服务
+        description: Qobuz 音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Qobuz/Qobuz.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Qobuz.list
         files: []
         rules: []
     qualcomm:
-        description: Qualcomm 高通公司相关服务
+        description: 高通 Qualcomm 相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Qualcomm/Qualcomm.list
         files: []
@@ -2991,13 +3297,13 @@ classified_rules:
         files: []
         rules: []
     qyyjt:
-        description: Qyyjt 特定网站或服务
+        description: 企业云服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Qyyjt/Qyyjt.list
         files: []
         rules: []
     rakuten:
-        description: 乐天市场及旗下服务
+        description: 乐天（Rakuten）电商及关联服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Rakuten/Rakuten.list
         files: []
@@ -3009,97 +3315,107 @@ classified_rules:
         files: []
         rules: []
     razer:
-        description: 雷蛇 Razer 硬件及服务
+        description: 雷蛇 Razer 游戏设备服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Razer/Razer.list
         files: []
         rules: []
     reabble:
-        description: Reabble RSS 阅读器
+        description: Reabble RSS阅读器服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Reabble/Reabble.list
         files: []
         rules: []
     reddit:
-        description: Reddit 社交平台
+        description: Reddit 社交媒体平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Reddit/Reddit.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Reddit.list
         files: []
         rules: []
     remotedesktop:
-        description: 远程桌面软件（ToDesk、向日葵等）
+        description: 远程桌面软件（如ToDesk、向日葵）
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/RemoteDesktop/RemoteDesktop.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/RemoteDesktop.list
         files: []
         rules: []
     riot:
-        description: Riot Games 游戏公司（英雄联盟、无畏契约等）
+        description: Riot Games（拳头游戏）游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Riot/Riot.list
         files: []
         rules: []
+    roblox:
+        description: Roblox 游戏平台
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Roblox/Roblox.list
+        files: []
+        rules: []
     rockstar:
-        description: Rockstar Games 游戏公司（GTA、荒野大镖客等）
+        description: Rockstar Games（R星）游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Rockstar/Rockstar.list
         files: []
         rules: []
     rthk:
-        description: RTHK 香港电台流媒体服务
+        description: 香港电台 RTHK
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/RTHK/RTHK.list
         files: []
         rules: []
     ruanmei:
-        description: 软媒相关服务
+        description: 软媒（RuanMei）软件及服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/RuanMei/RuanMei.list
         files: []
         rules: []
     salesforce:
-        description: Salesforce 云服务及旗下 Heroku 等
+        description: Salesforce CRM及Heroku云平台服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Salesforce/Salesforce.list
         files: []
         rules: []
     samsung:
-        description: 三星电子相关服务
+        description: 三星（Samsung）电子服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Samsung/Samsung.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Samsung.list
         files: []
         rules: []
     scaleflex:
-        description: Scaleflex 图像处理服务
+        description: Scaleflex 图像处理和CDN服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Scaleflex/Scaleflex.list
         files: []
         rules: []
     scholar:
-        description: 学术研究网站及服务（Google Scholar、Z-Library 等）
+        description: 学术研究及文献服务（如Google Scholar、Z-Library）
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Scholar/Scholar.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Scholar.list
         files: []
         rules: []
     sectigo:
-        description: Sectigo 证书颁发机构
+        description: Sectigo证书服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sectigo/Sectigo.list
         files: []
         rules: []
     sfexpress:
-        description: 顺丰速运相关服务
+        description: 顺丰速运（SF Express）物流服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SFExpress/SFExpress.list
         files: []
         rules: []
     shanghaijuxiao:
-        description: 上海聚效广告
+        description: 上海聚效广告（MediaV）广告服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ShangHaiJuXiao/ShangHaiJuXiao.list
         files: []
         rules: []
     shanling:
-        description: 山灵音频设备与服务
+        description: 山灵（Shanling）音频设备服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Shanling/Shanling.list
         files: []
@@ -3111,133 +3427,143 @@ classified_rules:
         files: []
         rules: []
     shenma:
-        description: 神马搜索
+        description: 神马（ShenMa）搜索服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ShenMa/ShenMa.list
         files: []
         rules: []
     shijichaoxing:
-        description: 超星学习平台相关服务
+        description: 世纪超星服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ShiJiChaoXing/ShiJiChaoXing.list
         files: []
         rules: []
     shinongzhike:
-        description: 识农智科农业服务
+        description: 识农智科服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ShiNongZhiKe/ShiNongZhiKe.list
         files: []
         rules: []
     shopee:
-        description: Shopee 电商平台
+        description: Shopee电商平台服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Shopee/Shopee.list
         files: []
         rules: []
     shopify:
-        description: Shopify 电商建站服务
+        description: Shopify电商平台服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Shopify/Shopify.list
         files: []
         rules: []
     sina:
-        description: 新浪网络服务
+        description: 新浪服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sina/Sina.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sina.list
         files: []
         rules: []
     siri:
-        description: 苹果 Siri 语音助手
+        description: 苹果Siri语音助手服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Siri/Siri.list
         files: []
         rules: []
     skygo:
-        description: Sky GO 流媒体服务
+        description: SkyGO流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SkyGO/SkyGO.list
         files: []
         rules: []
     slack:
-        description: Slack 团队协作工具
+        description: Slack团队协作服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Slack/Slack.list
         files: []
         rules: []
     slideshare:
-        description: SlideShare 文档分享平台
+        description: SlideShare演示文稿分享服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SlideShare/SlideShare.list
         files: []
         rules: []
     sling:
-        description: Sling TV 流媒体服务
+        description: Sling TV 流媒体电视服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sling/Sling.list
         files: []
         rules: []
     smartone:
-        description: SmarTone 电讯服务
+        description: SmarTone电讯服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SmarTone/SmarTone.list
         files: []
         rules: []
     smg:
-        description: 上海广播电视台/上海文化广播影视集团
+        description: 上海广播电视台/上海文化广播影视集团（SMG）
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SMG/SMG.list
         files: []
         rules: []
     smzdm:
-        description: 什么值得买导购网站
+        description: 什么值得买（SMZDM）电商导购平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SMZDM/SMZDM.list
         files: []
         rules: []
     snap:
-        description: Snapchat 社交应用
+        description: Snapchat社交服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Snap/Snap.list
         files: []
         rules: []
     sohu:
-        description: 搜狐网络服务
+        description: 搜狐服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sohu/Sohu.list
         files: []
         rules: []
+    sohusogo:
+        description: 搜狐与搜狗相关服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SohuSogo.list
+        files: []
+        rules: []
     sony:
-        description: 索尼产品与服务
+        description: 索尼服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
         files: []
         rules: []
     soufang:
-        description: 搜房网房产服务
+        description: 搜房网服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SouFang/SouFang.list
         files: []
         rules: []
     soundcloud:
-        description: SoundCloud 音乐平台
+        description: SoundCloud音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SoundCloud/SoundCloud.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SoundCloud.list
         files: []
         rules: []
     sourceforge:
-        description: SourceForge 开源项目托管平台
+        description: SourceForge开源软件托管服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SourceForge/SourceForge.list
         files: []
         rules: []
     spark:
-        description: Spark 邮件应用相关服务
+        description: Spark邮件服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spark/Spark.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spark.list
         files: []
         rules: []
     speedtest:
-        description: 网速测试服务
+        description: 网络测速服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.list
         files: []
@@ -3246,36 +3572,45 @@ classified_rules:
         description: Spotify 音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
         files: []
         rules: []
     stackexchange:
-        description: Stack Exchange 问答社区
+        description: StackExchange问答平台服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Stackexchange/Stackexchange.list
         files: []
         rules: []
     starbucks:
-        description: 星巴克相关服务
+        description: 星巴克咖啡及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Starbucks/Starbucks.list
         files: []
         rules: []
     starcraftii:
-        description: 星际争霸II 游戏服务
+        description: 星际争霸II游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/StarCraftII/StarCraftII.list
         files: []
         rules: []
     steam:
-        description: Steam 游戏平台
+        description: Steam 游戏平台及服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
         files: []
         rules: []
     steamcn:
         description: Steam 中国区服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
+        files: []
+        rules: []
+    steamregioncheck:
+        description: Steam 区域检测服务器
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamRegionCheck.list
         files: []
         rules: []
     stripe:
@@ -3285,13 +3620,13 @@ classified_rules:
         files: []
         rules: []
     stun:
-        description: STUN 服务器（网络穿透）
+        description: STUN（NAT穿透）服务器
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/STUN/STUN.list
         files: []
         rules: []
     sublimetext:
-        description: Sublime Text 编辑器相关服务
+        description: Sublime Text 编辑器及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SublimeText/SublimeText.list
         files: []
@@ -3303,37 +3638,37 @@ classified_rules:
         files: []
         rules: []
     suning:
-        description: 苏宁相关服务
+        description: 苏宁易购及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SuNing/SuNing.list
         files: []
         rules: []
     supercell:
-        description: Supercell 游戏公司服务
+        description: Supercell 游戏公司及相关游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Supercell/Supercell.list
         files: []
         rules: []
     synology:
-        description: 群晖相关服务
+        description: 群晖 Synology 网络存储及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Synology/Synology.list
         files: []
         rules: []
     systemota:
-        description: 系统在线更新服务
+        description: 系统 OTA 更新服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SystemOTA/SystemOTA.list
         files: []
         rules: []
     taihemusic:
-        description: 太合音乐服务
+        description: 太合音乐集团及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TaiheMusic/TaiheMusic.list
         files: []
         rules: []
     taikang:
-        description: 泰康相关服务
+        description: 泰康保险及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TaiKang/TaiKang.list
         files: []
@@ -3342,28 +3677,30 @@ classified_rules:
         description: 台湾相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TaiWanGood/TaiWanGood.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TaiWanGood.list
         files: []
         rules: []
     taptap:
         description: TapTap 游戏社区平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TapTap/TapTap.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TapTap.list
         files: []
         rules: []
     tcl:
-        description: TCL 相关服务
+        description: TCL 集团及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TCL/TCL.list
         files: []
         rules: []
     teambition:
-        description: Teambition 团队协作工具
+        description: Teambition 团队协作与项目管理工具
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Teambition/Teambition.list
         files: []
         rules: []
     teams:
-        description: Microsoft Teams 协作平台
+        description: Microsoft Teams 协作办公服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Teams/Teams.list
         files: []
@@ -3372,38 +3709,76 @@ classified_rules:
         description: TeamViewer 远程控制软件
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TeamViewer/TeamViewer.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TeamViewer.list
         files: []
         rules: []
     telegram:
         description: Telegram 即时通讯服务
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TelegramSG/TelegramSG.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list
+        files: []
+        rules: []
+    telegramnl:
+        description: Telegram 荷兰地区相关服务
+        urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TelegramNL/TelegramNL.list
+        files: []
+        rules: []
+    telegramsg:
+        description: Telegram 新加坡地区相关服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TelegramSG/TelegramSG.list
+        files: []
+        rules: []
+    telegramus:
+        description: Telegram 美国地区相关服务
+        urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TelegramUS/TelegramUS.list
         files: []
         rules: []
     tencent:
-        description: 腾讯综合服务
+        description: 腾讯公司综合服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Tencent.list
+        files: []
+        rules: []
+    tencentcloud:
+        description: 腾讯云 Tencent Cloud 服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/TencentCloud/TencentCloud.list
+        files: []
+        rules: []
+    tencentlolm:
+        description: 腾讯英雄联盟手游相关服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TencentLolm.list
+        files: []
+        rules: []
+    tencentlolmobile:
+        description: 腾讯英雄联盟手游服务
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/TencentLoLMobile/TencentLoLMobile.list
         files: []
         rules: []
     tencentvideo:
-        description: 腾讯视频服务
+        description: 腾讯视频流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TencentVideo/TencentVideo.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TencentVideo.list
         files: []
         rules: []
     terabox:
         description: TeraBox 云存储服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TeraBox/TeraBox.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TeraBox.list
         files: []
         rules: []
     tesla:
-        description: 特斯拉汽车与服务
+        description: Tesla 特斯拉汽车及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tesla/Tesla.list
         files: []
@@ -3415,19 +3790,19 @@ classified_rules:
         files: []
         rules: []
     thomsonreuters:
-        description: 汤森路透信息服务
+        description: Thomson Reuters 路透社新闻与信息服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ThomsonReuters/ThomsonReuters.list
         files: []
         rules: []
     threads:
-        description: Threads 社交网络
+        description: Threads 社交媒体平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Threads/Threads.list
         files: []
         rules: []
     tiantiankankan:
-        description: 天天看看视频服务
+        description: 天天看看视频平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TianTianKanKan/TianTianKanKan.list
         files: []
@@ -3448,6 +3823,7 @@ classified_rules:
         description: TIDAL 音乐流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TIDAL/TIDAL.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TIDAL.list
         files: []
         rules: []
     tigerfintech:
@@ -3457,13 +3833,14 @@ classified_rules:
         files: []
         rules: []
     tiktok:
-        description: TikTok 短视频服务
+        description: TikTok 短视频平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list
         files: []
         rules: []
     tmdb:
-        description: The Movie Database 电影数据库服务
+        description: The Movie Database 电影数据库
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tmdb/Tmdb.list
         files: []
@@ -3474,6 +3851,12 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TongCheng/TongCheng.list
         files: []
         rules: []
+    topblockedsites:
+        description: 全球常用被屏蔽网站集合
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TopBlockedSites.list
+        files: []
+        rules: []
     trustwave:
         description: TrustWave 网络安全服务
         urls:
@@ -3481,7 +3864,7 @@ classified_rules:
         files: []
         rules: []
     truthsocial:
-        description: Truth Social 社交媒体服务
+        description: Truth Social 社交媒体平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TruthSocial/TruthSocial.list
         files: []
@@ -3493,31 +3876,33 @@ classified_rules:
         files: []
         rules: []
     tvb:
-        description: TVB 电视广播有限公司相关服务
+        description: TVB 电视广播及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TVB/TVB.list
         files: []
         rules: []
     tver:
-        description: TVer 日本视频流媒体服务
+        description: TVer 日本在线视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TVer/TVer.list
         files: []
         rules: []
     twitch:
-        description: Twitch 游戏直播平台服务
+        description: Twitch 游戏直播平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitch/Twitch.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitch.list
         files: []
         rules: []
     twitter:
-        description: Twitter 社交媒体服务
+        description: Twitter (X) 社交媒体平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
         files: []
         rules: []
     u17:
-        description: 有妖气漫画平台服务
+        description: 有妖气漫画平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/U17/U17.list
         files: []
@@ -3535,7 +3920,7 @@ classified_rules:
         files: []
         rules: []
     ubuntu:
-        description: Ubuntu 操作系统及相关服务
+        description: Ubuntu 及相关开源社区服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Ubuntu/Ubuntu.list
         files: []
@@ -3553,19 +3938,19 @@ classified_rules:
         files: []
         rules: []
     udacity:
-        description: Udacity 在线教育平台服务
+        description: Udacity 在线教育平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Udacity/Udacity.list
         files: []
         rules: []
     ukmedia:
-        description: 英国媒体服务
+        description: 英国媒体服务集合
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UKMedia/UKMedia.list
         files: []
         rules: []
     unban:
-        description: 解除封禁服务集合
+        description: 解除封锁的域名集合
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
         files: []
@@ -3577,7 +3962,7 @@ classified_rules:
         files: []
         rules: []
     unity:
-        description: Unity 游戏引擎及相关服务
+        description: Unity 游戏引擎服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Unity/Unity.list
         files: []
@@ -3589,7 +3974,7 @@ classified_rules:
         files: []
         rules: []
     usmedia:
-        description: 美国媒体服务
+        description: 美国媒体服务集合
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/USMedia/USMedia.list
         files: []
@@ -3607,7 +3992,7 @@ classified_rules:
         files: []
         rules: []
     verisign:
-        description: Verisign 域名与安全服务
+        description: Verisign 域名注册与安全服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Verisign/Verisign.list
         files: []
@@ -3625,9 +4010,10 @@ classified_rules:
         files: []
         rules: []
     vikacg:
-        description: VikACG 动漫社区
+        description: VikACG 动漫游戏社区
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/VikACG/VikACG.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/VikACG.list
         files: []
         rules: []
     viki:
@@ -3637,9 +4023,15 @@ classified_rules:
         files: []
         rules: []
     vimeo:
-        description: Vimeo 视频平台服务
+        description: Vimeo 视频平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Vimeo/Vimeo.list
+        files: []
+        rules: []
+    vip:
+        description: 唯品会电商服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Vip.list
         files: []
         rules: []
     vipshop:
@@ -3655,13 +4047,14 @@ classified_rules:
         files: []
         rules: []
     viutv:
-        description: ViuTV 视频流媒体服务
+        description: ViuTV 流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ViuTV/ViuTV.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ViuTV.list
         files: []
         rules: []
     vivo:
-        description: Vivo 手机与服务
+        description: Vivo 智能手机及相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Vivo/Vivo.list
         files: []
@@ -3679,13 +4072,13 @@ classified_rules:
         files: []
         rules: []
     voxmedia:
-        description: Vox Media 媒体网络服务
+        description: Vox Media 媒体网络
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Voxmedia/Voxmedia.list
         files: []
         rules: []
     w3schools:
-        description: W3Schools 编程教程网站
+        description: W3Schools 在线编程教程
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/W3schools/W3schools.list
         files: []
@@ -3697,12 +4090,12 @@ classified_rules:
         files: []
         rules: []
     wangsukeji:
-        description: 网宿科技 CDN 服务
+        description: 网宿科技 CDN 与云服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WangSuKeJi/WangSuKeJi.list
         files: []
         rules: []
-    wangxinkeji:
+    wangxinkej:
         description: 网心科技服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WangXinKeJi/WangXinKeJi.list
@@ -3721,19 +4114,20 @@ classified_rules:
         files: []
         rules: []
     wechat:
-        description: 微信即时通讯及生态服务
+        description: 微信服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeChat/WeChat.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Wechat.list
         files: []
         rules: []
     weibo:
-        description: 微博社交媒体服务
+        description: 微博社交媒体平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Weibo/Weibo.list
         files: []
         rules: []
     weizhiyundong:
-        description: 未知运动 (医疗/运动相关服务)
+        description: 未知运动服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeiZhiYunDong/WeiZhiYunDong.list
         files: []
@@ -3745,13 +4139,13 @@ classified_rules:
         files: []
         rules: []
     westerndigital:
-        description: 西部数据 (Western Digital) 存储设备服务
+        description: 西部数据存储设备与服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Westerndigital/Westerndigital.list
         files: []
         rules: []
     wetv:
-        description: WeTV (腾讯视频海外版) 流媒体服务
+        description: WeTV 流媒体服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeTV/WeTV.list
         files: []
@@ -3766,6 +4160,7 @@ classified_rules:
         description: WhatsApp 即时通讯服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Whatsapp/Whatsapp.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Whatsapp.list
         files: []
         rules: []
     wifimaster:
@@ -3775,19 +4170,20 @@ classified_rules:
         files: []
         rules: []
     wikimedia:
-        description: 维基媒体基金会相关服务
+        description: 维基媒体基金会项目
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wikimedia/Wikimedia.list
         files: []
         rules: []
     wikipedia:
-        description: 维基百科及相关知识项目
+        description: 维基百科及相关项目
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wikipedia/Wikipedia.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Wikipedia.list
         files: []
         rules: []
     wildrift:
-        description: 英雄联盟：激斗峡谷 (Wild Rift) 游戏服务
+        description: 英雄联盟：激斗峡谷游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WildRift/WildRift.list
         files: []
@@ -3799,19 +4195,19 @@ classified_rules:
         files: []
         rules: []
     wolai:
-        description: 我来 (Wolai) 笔记协作服务
+        description: 我来笔记协作平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WoLai/WoLai.list
         files: []
         rules: []
     wordpress:
-        description: WordPress 博客及建站服务
+        description: WordPress 博客平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wordpress/Wordpress.list
         files: []
         rules: []
     worldofwarcraft:
-        description: 魔兽世界 (World of Warcraft) 游戏服务
+        description: 魔兽世界游戏服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WorldofWarcraft/WorldofWarcraft.list
         files: []
@@ -3825,8 +4221,9 @@ classified_rules:
     xbox:
         description: Xbox 游戏服务
         urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Xbox.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Xbox.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Xbox.list
         files: []
         rules: []
     xiamimusic:
@@ -3848,19 +4245,19 @@ classified_rules:
         files: []
         rules: []
     xiaohongshu:
-        description: 小红书社交电商平台
+        description: 小红书社交媒体平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/XiaoHongShu/XiaoHongShu.list
         files: []
         rules: []
     xiaomi:
-        description: 小米公司产品与服务
+        description: 小米服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/XiaoMi/XiaoMi.list
         files: []
         rules: []
-    xiaoyuankeji:
-        description: 校园科技相关服务
+    xiaoyuankej:
+        description: 校园科技服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/XiaoYuanKeJi/XiaoYuanKeJi.list
         files: []
@@ -3871,8 +4268,14 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/XieCheng/XieCheng.list
         files: []
         rules: []
+    ximalaya:
+        description: 喜马拉雅音频平台
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Ximalaya.list
+        files: []
+        rules: []
     xingkongwuxian:
-        description: 星空无限相关服务
+        description: 星空无限服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/XingKongWuXian/XingKongWuXian.list
         files: []
@@ -3884,7 +4287,7 @@ classified_rules:
         files: []
         rules: []
     xueqiu:
-        description: 雪球财经投资社区
+        description: 雪球财经服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/XueQiu/XueQiu.list
         files: []
@@ -3893,28 +4296,29 @@ classified_rules:
         description: 迅雷下载服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xunlei/Xunlei.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Xunlei.list
         files: []
         rules: []
     yandex:
-        description: Yandex俄罗斯互联网服务
+        description: Yandex 俄罗斯互联网服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Yandex/Yandex.list
         files: []
         rules: []
     yiche:
-        description: 易车汽车资讯与服务
+        description: 易车汽车服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiChe/YiChe.list
         files: []
         rules: []
-    yixiakeji:
-        description: 一下科技相关服务
+    yixiakej:
+        description: 一下科技服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiXiaKeJi/YiXiaKeJi.list
         files: []
         rules: []
     yizhibo:
-        description: 一直播直播平台
+        description: 一直播服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiZhiBo/YiZhiBo.list
         files: []
@@ -3923,24 +4327,27 @@ classified_rules:
         description: 优酷视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Youku/Youku.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Youku.list
         files: []
         rules: []
     youmengchuangxiang:
-        description: 游梦创想相关服务
+        description: 游梦创想服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouMengChuangXiang/YouMengChuangXiang.list
         files: []
         rules: []
     youtube:
-        description: YouTube视频服务
+        description: YouTube 视频服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
         files: []
         rules: []
     youtubemusic:
-        description: YouTube音乐服务
+        description: YouTube Music 音乐服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTubeMusic/YouTubeMusic.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTubeMusic.list
         files: []
         rules: []
     youzan:
@@ -3950,7 +4357,7 @@ classified_rules:
         files: []
         rules: []
     yuanfudao:
-        description: 猿辅导在线教育服务
+        description: 猿辅导在线教育平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YuanFuDao/YuanFuDao.list
         files: []
@@ -3962,9 +4369,10 @@ classified_rules:
         files: []
         rules: []
     yyets:
-        description: 人人影视字幕组
+        description: 人人影视字幕组服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YYeTs/YYeTs.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YYeTs.list
         files: []
         rules: []
     zalo:
@@ -3980,25 +4388,25 @@ classified_rules:
         files: []
         rules: []
     zee:
-        description: Zee 娱乐媒体服务
+        description: Zee 娱乐网络（印度媒体集团）
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Zee/Zee.list
         files: []
         rules: []
     zeetv:
-        description: ZeeTV 流媒体服务
+        description: Zee5 流媒体电视服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZeeTV/ZeeTV.list
         files: []
         rules: []
     zendesk:
-        description: Zendesk 客户服务软件
+        description: Zendesk 客户服务与支持平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Zendesk/Zendesk.list
         files: []
         rules: []
     zhangyue:
-        description: 掌阅阅读服务
+        description: 掌阅 iReader 电子书阅读平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhangYue/ZhangYue.list
         files: []
@@ -4009,44 +4417,44 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/zhanqi/zhanqi.list
         files: []
         rules: []
-    zhiheads:
-        description: 知乎广告服务
-        urls:
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhihuAds/ZhihuAds.list
-        files: []
-        rules: []
     zhihu:
         description: 知乎问答社区
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Zhihu/Zhihu.list
         files: []
         rules: []
+    zhihuads:
+        description: 知乎广告相关域名
+        urls:
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhihuAds/ZhihuAds.list
+        files: []
+        rules: []
     zhiyinmanke:
-        description: 知音漫客漫画服务
+        description: 知音漫客漫画平台
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhiYinManKe/ZhiYinManKe.list
         files: []
         rules: []
     zhiyunzhong:
-        description: 智云众服务
+        description: 智云众（应用分发/推广相关服务）
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhiYunZhong/ZhiYunZhong.list
         files: []
         rules: []
     zhongguoshihua:
-        description: 中国石化服务
+        description: 中国石化（Sinopec）相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhongGuoShiHua/ZhongGuoShiHua.list
         files: []
         rules: []
     zhongweishiji:
-        description: 中维世纪安防服务
+        description: 中维世纪（安防监控）相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhongWeiShiJi/ZhongWeiShiJi.list
         files: []
         rules: []
     zhongxingtongxun:
-        description: 中兴通讯服务
+        description: 中兴通讯（ZTE）相关服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhongXingTongXun/ZhongXingTongXun.list
         files: []
@@ -4067,5 +4475,11 @@ classified_rules:
         description: Zoho 办公软件套件
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Zoho/Zoho.list
+        files: []
+        rules: []
+    zoom:
+        description: Zoom 视频会议服务
+        urls:
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Zoom.list
         files: []
         rules: []
