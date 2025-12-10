@@ -1149,11 +1149,6 @@ classified_rules:
         description: Clubhouse 音频社交应用 (域名规则)
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Clubhouse/Clubhouse.list
-        files: []
-        rules: []
-    clubhouseip:
-        description: Clubhouse 音频社交应用 (IP 规则)
-        urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ClubhouseIP/ClubhouseIP.list
         files: []
         rules: []
@@ -1957,12 +1952,6 @@ classified_rules:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Haveibeenpwned/Haveibeenpwned.list
         files: []
         rules: []
-    hbgohkg:
-        description: HBO GO 香港服务
-        urls:
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/HBO_GO_HKG.list
-        files: []
-        rules: []
     hbo:
         description: HBO 通用服务
         urls:
@@ -1980,6 +1969,7 @@ classified_rules:
         description: HBO 香港区服务
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBOHK/HBOHK.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/HBO_GO_HKG.list
         files: []
         rules: []
     hbousa:
