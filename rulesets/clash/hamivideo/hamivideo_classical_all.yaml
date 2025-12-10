@@ -1,0 +1,14 @@
+# hamivideo - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (1 rules)
+  - DOMAIN,hls-hichannel.cdn.hinet.net
+
+  # DOMAIN-SUFFIX (2 rules)
+  - DOMAIN-SUFFIX,ott.hinet.net
+  - DOMAIN-SUFFIX,hamivideo.hinet.net
+
+  # DOMAIN-KEYWORD (1 rules)
+  - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
