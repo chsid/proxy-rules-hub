@@ -1,0 +1,17 @@
+# others - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - DOMAIN-SUFFIX,btdig.com
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,tails.net
+  - DOMAIN-SUFFIX,lntu.edu.cn
+  - DOMAIN-SUFFIX,multcloud.com
+
+  # DOMAIN-KEYWORD (4 rules)
+  - DOMAIN-KEYWORD,osl
+  - DOMAIN-KEYWORD,javdb
+  - DOMAIN-KEYWORD,hashkey
+  - DOMAIN-KEYWORD,linkedin

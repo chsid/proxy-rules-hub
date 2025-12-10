@@ -292,7 +292,8 @@ classified_rules:
         description: 人工智能服务规则
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AI.list
-        files: []
+        files: 
+            - "./rulesets/custom/AI.list"
         rules: []
     aiqicha:
         description: 爱企查企业信息查询服务
@@ -1378,7 +1379,11 @@ classified_rules:
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.list
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdGuardSDNSFilter/Direct/Direct.list
-        files: []
+            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
+            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Download.list
+        files: 
+            - "./rulesets/custom/direct.list"
         rules: []
     discord:
         description: Discord 社交聊天服务
@@ -1467,14 +1472,6 @@ classified_rules:
         urls:
             - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Douyu/Douyu.list
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Douyu.list
-        files: []
-        rules: []
-    download:
-        description: 下载工具相关服务
-        urls:
-            - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.list
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
-            - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Download.list
         files: []
         rules: []
     dropbox:
@@ -4473,4 +4470,34 @@ classified_rules:
         urls:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Zoom.list
         files: []
+        rules: []
+    clashmeta:
+        description: Clash mihomo
+        urls: []
+        files: 
+            - "./rulesets/custom/clash_meta.list"
+        rules: []
+    googledns:
+        description: Google DNS
+        urls: []
+        files: 
+            - "./rulesets/custom/dns.list"
+        rules: []
+    jellyfin:
+        description: Jellyfin
+        urls: []
+        files: 
+            - "./rulesets/custom/jellyfin.list"
+        rules: []
+    others:
+        description: others
+        urls: []
+        files: 
+            - "./rulesets/custom/others.list"
+        rules: []
+    tor:
+        description: Tor
+        urls: []
+        files: 
+            - "./rulesets/custom/tor.list"
         rules: []
