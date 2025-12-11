@@ -39,4 +39,4 @@ payload:
   - 'DOMAIN-SUFFIX,chinaunicomglobal.com'
 
   # IP-CIDR (1 rules)
-  - 'IP-CIDR,113.200.56.63/32,no-resolve'
+  - 'IP-CIDR,113.200.56.63/32'

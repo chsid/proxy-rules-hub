@@ -56,8 +56,8 @@ DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
 DOMAIN-KEYWORD,openaicom-api
 
 # IP-CIDR (2 rules)
-IP-CIDR,24.199.123.28/32,no-resolve
-IP-CIDR,64.23.132.171/32,no-resolve
+IP-CIDR,24.199.123.28/32
+IP-CIDR,64.23.132.171/32
 
 # IP-ASN (2 rules)
 IP-ASN,14061,no-resolve

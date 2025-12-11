@@ -41,4 +41,4 @@ payload:
   - 'DOMAIN-SUFFIX,chinamobiledevice.com'
 
   # IP-CIDR (1 rules)
-  - 'IP-CIDR,117.161.2.5/32,no-resolve'
+  - 'IP-CIDR,117.161.2.5/32'

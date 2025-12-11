@@ -5051,8 +5051,8 @@ payload:
   - 'DOMAIN-SUFFIX,c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com'
 
   # IP-CIDR (5 rules)
-  - 'IP-CIDR,154.7.80.158/32,no-resolve'
-  - 'IP-CIDR,194.59.220.161/32,no-resolve'
-  - 'IP-CIDR,205.209.138.102/32,no-resolve'
-  - 'IP-CIDR,23.231.151.252/32,no-resolve'
-  - 'IP-CIDR,60.190.139.164/32,no-resolve'
+  - 'IP-CIDR,154.7.80.158/32'
+  - 'IP-CIDR,194.59.220.161/32'
+  - 'IP-CIDR,205.209.138.102/32'
+  - 'IP-CIDR,23.231.151.252/32'
+  - 'IP-CIDR,60.190.139.164/32'

@@ -12,4 +12,4 @@ payload:
   - 'DOMAIN-SUFFIX,anticheatexpert.com'
 
   # IP-CIDR (1 rules)
-  - 'IP-CIDR,43.152.114.31/32,no-resolve'
+  - 'IP-CIDR,43.152.114.31/32'

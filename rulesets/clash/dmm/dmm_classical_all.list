@@ -23,5 +23,5 @@ DOMAIN-SUFFIX,api-p.videomarket.jp
 DOMAIN-SUFFIX,navismithapis-cdn.com
 
 # IP-CIDR (2 rules)
-IP-CIDR,125.6.189.7/32,no-resolve
-IP-CIDR,203.104.209.7/32,no-resolve
+IP-CIDR,125.6.189.7/32
+IP-CIDR,203.104.209.7/32

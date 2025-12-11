@@ -375,7 +375,7 @@ DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 
 # IP-CIDR (1 rules)
-IP-CIDR,114.246.10.65/32,no-resolve
+IP-CIDR,114.246.10.65/32
 
 # PROCESS-NAME (1 rules)
 PROCESS-NAME,com.zhiliaoapp.musically
