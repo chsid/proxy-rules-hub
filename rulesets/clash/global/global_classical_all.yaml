@@ -118,7 +118,7 @@ payload:
   - 'DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32231 rules)
+  # DOMAIN-SUFFIX (32236 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,j.mp'
@@ -1185,6 +1185,7 @@ payload:
   - 'DOMAIN-SUFFIX,pmem.us'
   - 'DOMAIN-SUFFIX,po18.tw'
   - 'DOMAIN-SUFFIX,poe.com'
+  - 'DOMAIN-SUFFIX,poi.icu'
   - 'DOMAIN-SUFFIX,poi.moe'
   - 'DOMAIN-SUFFIX,popo.tw'
   - 'DOMAIN-SUFFIX,porn.to'
@@ -2390,6 +2391,7 @@ payload:
   - 'DOMAIN-SUFFIX,pmem.org'
   - 'DOMAIN-SUFFIX,po2b.com'
   - 'DOMAIN-SUFFIX,pogo.com'
+  - 'DOMAIN-SUFFIX,poi6.net'
   - 'DOMAIN-SUFFIX,porn.biz'
   - 'DOMAIN-SUFFIX,porn.com'
   - 'DOMAIN-SUFFIX,porn.xxx'
@@ -4607,6 +4609,7 @@ payload:
   - 'DOMAIN-SUFFIX,qmu.ac.uk'
   - 'DOMAIN-SUFFIX,qmw.ac.uk'
   - 'DOMAIN-SUFFIX,qmzdd.com'
+  - 'DOMAIN-SUFFIX,qobuz.com'
   - 'DOMAIN-SUFFIX,qorno.com'
   - 'DOMAIN-SUFFIX,qqbs.asia'
   - 'DOMAIN-SUFFIX,qqbs.work'
@@ -7565,6 +7568,7 @@ payload:
   - 'DOMAIN-SUFFIX,pmates.com'
   - 'DOMAIN-SUFFIX,podcast.co'
   - 'DOMAIN-SUFFIX,poecdn.net'
+  - 'DOMAIN-SUFFIX,poihub.com'
   - 'DOMAIN-SUFFIX,pojapp.cfd'
   - 'DOMAIN-SUFFIX,pojie7.com'
   - 'DOMAIN-SUFFIX,poms.ac.uk'
@@ -22102,6 +22106,7 @@ payload:
   - 'DOMAIN-SUFFIX,prism-break.org'
   - 'DOMAIN-SUFFIX,privacytools.io'
   - 'DOMAIN-SUFFIX,procopytips.com'
+  - 'DOMAIN-SUFFIX,project-poi.com'
   - 'DOMAIN-SUFFIX,projectapex.com'
   - 'DOMAIN-SUFFIX,property.com.au'
   - 'DOMAIN-SUFFIX,propertysex.com'
