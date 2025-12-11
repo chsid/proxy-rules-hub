@@ -1,0 +1,37 @@
+# globalmedia - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-KEYWORD (26 rules)
+DOMAIN-KEYWORD,nivod
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,japonx
+DOMAIN-KEYWORD,olevod
+DOMAIN-KEYWORD,japronx
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,uk-live
+DOMAIN-KEYWORD,voddazn
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,avoddashs
+DOMAIN-KEYWORD,hbogoasia
+DOMAIN-KEYWORD,tiktokcdn
+DOMAIN-KEYWORD,jooxweb-api
+DOMAIN-KEYWORD,tvbanywhere
+DOMAIN-KEYWORD,netflixdnstest
+DOMAIN-KEYWORD,dualstack.apiproxy-
+DOMAIN-KEYWORD,discovery.uplynk.com
+DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
+DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+
+# PROCESS-NAME (3 rules)
+PROCESS-NAME,com.viu.pad
+PROCESS-NAME,com.viu.phone
+PROCESS-NAME,com.vuclip.viu

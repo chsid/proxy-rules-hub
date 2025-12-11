@@ -1,0 +1,22 @@
+# chinadomain - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-KEYWORD (16 rules)
+DOMAIN-KEYWORD,moke
+DOMAIN-KEYWORD,jdpay
+DOMAIN-KEYWORD,qhimg
+DOMAIN-KEYWORD,vpimg
+DOMAIN-KEYWORD,xiami
+DOMAIN-KEYWORD,360buy
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,ccgslb
+DOMAIN-KEYWORD,duobao
+DOMAIN-KEYWORD,xiaomi
+DOMAIN-KEYWORD,alimama
+DOMAIN-KEYWORD,appzapp
+DOMAIN-KEYWORD,baidupcs
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,chinacache

@@ -1,0 +1,12 @@
+# cht - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (7 rules)
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,xuite.net
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,chtf.org.tw
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw
