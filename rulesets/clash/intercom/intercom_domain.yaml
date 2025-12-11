@@ -1,5 +1,5 @@
 payload:
-  - '.intercom.io'
-  - '.intercom.com'
-  - '.intercomcdn.com'
-  - '.intercomassets.com'
+  - '+.intercom.io'
+  - '+.intercom.com'
+  - '+.intercomcdn.com'
+  - '+.intercomassets.com'

@@ -1,4 +1,4 @@
 payload:
-  - '.hitv.com'
-  - '.mgtv.com'
-  - '.hunantv.com'
+  - '+.hitv.com'
+  - '+.mgtv.com'
+  - '+.hunantv.com'

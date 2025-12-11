@@ -1,4 +1,4 @@
 payload:
-  - '.nikkei.jp'
-  - '.nikkei.com'
-  - '.nikkei.co.jp'
+  - '+.nikkei.jp'
+  - '+.nikkei.com'
+  - '+.nikkei.co.jp'

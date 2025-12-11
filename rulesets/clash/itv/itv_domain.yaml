@@ -1,4 +1,4 @@
 payload:
   - 'itvpnpmobile-a.akamaihd.net'
-  - '.itv.com'
-  - '.itvstatic.com'
+  - '+.itv.com'
+  - '+.itvstatic.com'

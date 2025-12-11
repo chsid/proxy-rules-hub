@@ -1,4 +1,4 @@
 payload:
-  - '.xiami.fm'
-  - '.xiami.com'
-  - '.xiami.net'
+  - '+.xiami.fm'
+  - '+.xiami.com'
+  - '+.xiami.net'

@@ -1,4 +1,4 @@
 payload:
-  - '.atom-data.io'
-  - '.ironbeast.io'
-  - '.analytics-data.io'
+  - '+.atom-data.io'
+  - '+.ironbeast.io'
+  - '+.analytics-data.io'

@@ -1,5 +1,5 @@
 payload:
   - 'gog.salesmanago.com'
-  - '.gog.com'
-  - '.gog.qtlglb.com'
-  - '.gog-statics.com'
+  - '+.gog.com'
+  - '+.gog.qtlglb.com'
+  - '+.gog-statics.com'

@@ -1,5 +1,5 @@
 payload:
-  - '.collabora.com'
-  - '.collabora.org'
-  - '.collabora.co.uk'
-  - '.collaboraoffice.com'
+  - '+.collabora.com'
+  - '+.collabora.org'
+  - '+.collabora.co.uk'
+  - '+.collaboraoffice.com'

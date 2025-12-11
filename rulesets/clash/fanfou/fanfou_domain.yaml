@@ -1,5 +1,5 @@
 payload:
-  - '.comox.cn'
-  - '.comum.cn'
-  - '.mlj130.cn'
-  - '.ifanfou.cn'
+  - '+.comox.cn'
+  - '+.comum.cn'
+  - '+.mlj130.cn'
+  - '+.ifanfou.cn'

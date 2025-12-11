@@ -1,4 +1,4 @@
 payload:
-  - '.tmblr.co'
-  - '.tumblr.co'
-  - '.tumblr.com'
+  - '+.tmblr.co'
+  - '+.tumblr.co'
+  - '+.tumblr.com'

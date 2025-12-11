@@ -1,7 +1,7 @@
 payload:
-  - '.pse.is'
-  - '.pics.ee'
-  - '.pise.pw'
-  - '.pros.ee'
-  - '.picsee.co'
-  - '.picsee.pro'
+  - '+.pse.is'
+  - '+.pics.ee'
+  - '+.pise.pw'
+  - '+.pros.ee'
+  - '+.picsee.co'
+  - '+.picsee.pro'

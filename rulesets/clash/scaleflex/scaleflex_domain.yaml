@@ -1,4 +1,4 @@
 payload:
-  - '.cloudimg.io'
-  - '.cloudimage.io'
-  - '.scaleflex.com'
+  - '+.cloudimg.io'
+  - '+.cloudimage.io'
+  - '+.scaleflex.com'

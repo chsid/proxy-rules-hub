@@ -1,4 +1,4 @@
 payload:
-  - '.npmjs.com'
-  - '.npmjs.org'
-  - '.npm.community'
+  - '+.npmjs.com'
+  - '+.npmjs.org'
+  - '+.npm.community'

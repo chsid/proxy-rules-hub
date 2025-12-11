@@ -1,5 +1,5 @@
 payload:
-  - '.ecns.cn'
-  - '.cns.com.cn'
-  - '.chinanews.com'
-  - '.chinanews.com.cn'
+  - '+.ecns.cn'
+  - '+.cns.com.cn'
+  - '+.chinanews.com'
+  - '+.chinanews.com.cn'

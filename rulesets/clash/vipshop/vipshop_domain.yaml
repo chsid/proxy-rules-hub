@@ -1,5 +1,5 @@
 payload:
-  - '.vip.com'
-  - '.appsimg.com'
-  - '.vipstatic.com'
-  - '.appvipshop.com'
+  - '+.vip.com'
+  - '+.appsimg.com'
+  - '+.vipstatic.com'
+  - '+.appvipshop.com'
