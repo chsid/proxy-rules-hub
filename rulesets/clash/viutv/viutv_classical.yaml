@@ -5,6 +5,6 @@
 payload:
 
   # PROCESS-NAME (3 rules)
-  - PROCESS-NAME,com.viu.pad
-  - PROCESS-NAME,com.viu.phone
-  - PROCESS-NAME,com.vuclip.viu
+  - 'PROCESS-NAME,com.viu.pad'
+  - 'PROCESS-NAME,com.viu.phone'
+  - 'PROCESS-NAME,com.vuclip.viu'

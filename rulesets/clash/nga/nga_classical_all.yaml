@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,nga.cn
-  - DOMAIN-SUFFIX,178.com
-  - DOMAIN-SUFFIX,ngacn.cc
-  - DOMAIN-SUFFIX,ngabbs.com
+  - 'DOMAIN-SUFFIX,nga.cn'
+  - 'DOMAIN-SUFFIX,178.com'
+  - 'DOMAIN-SUFFIX,ngacn.cc'
+  - 'DOMAIN-SUFFIX,ngabbs.com'

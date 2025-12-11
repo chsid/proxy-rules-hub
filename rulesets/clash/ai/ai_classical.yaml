@@ -5,11 +5,11 @@
 payload:
 
   # DOMAIN-KEYWORD (8 rules)
-  - DOMAIN-KEYWORD,claude
-  - DOMAIN-KEYWORD,openai
-  - DOMAIN-KEYWORD,anthropic
-  - DOMAIN-KEYWORD,grazie.ai
-  - DOMAIN-KEYWORD,monica.im
-  - DOMAIN-KEYWORD,openart.ai
-  - DOMAIN-KEYWORD,huggingface
-  - DOMAIN-KEYWORD,grazie.aws.intellij.net
+  - 'DOMAIN-KEYWORD,claude'
+  - 'DOMAIN-KEYWORD,openai'
+  - 'DOMAIN-KEYWORD,anthropic'
+  - 'DOMAIN-KEYWORD,grazie.ai'
+  - 'DOMAIN-KEYWORD,monica.im'
+  - 'DOMAIN-KEYWORD,openart.ai'
+  - 'DOMAIN-KEYWORD,huggingface'
+  - 'DOMAIN-KEYWORD,grazie.aws.intellij.net'

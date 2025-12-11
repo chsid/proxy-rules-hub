@@ -4,11 +4,11 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,http-inputs-notion.splunkcloud.com
+  - 'DOMAIN,http-inputs-notion.splunkcloud.com'
 
   # DOMAIN-SUFFIX (5 rules)
-  - DOMAIN-SUFFIX,notion.so
-  - DOMAIN-SUFFIX,notion.com
-  - DOMAIN-SUFFIX,notion.new
-  - DOMAIN-SUFFIX,notion.site
-  - DOMAIN-SUFFIX,notion-static.com
+  - 'DOMAIN-SUFFIX,notion.so'
+  - 'DOMAIN-SUFFIX,notion.com'
+  - 'DOMAIN-SUFFIX,notion.new'
+  - 'DOMAIN-SUFFIX,notion.site'
+  - 'DOMAIN-SUFFIX,notion-static.com'

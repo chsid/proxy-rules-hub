@@ -5,4 +5,4 @@
 payload:
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,icloud.com.akadns.net
+  - 'DOMAIN-KEYWORD,icloud.com.akadns.net'

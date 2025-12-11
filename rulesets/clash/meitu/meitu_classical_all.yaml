@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,meitu.com
-  - DOMAIN-SUFFIX,meipai.com
-  - DOMAIN-SUFFIX,meitudata.com
-  - DOMAIN-SUFFIX,meitustat.com
+  - 'DOMAIN-SUFFIX,meitu.com'
+  - 'DOMAIN-SUFFIX,meipai.com'
+  - 'DOMAIN-SUFFIX,meitudata.com'
+  - 'DOMAIN-SUFFIX,meitustat.com'

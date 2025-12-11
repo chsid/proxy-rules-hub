@@ -5,8 +5,8 @@
 payload:
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,openaicom-api
+  - 'DOMAIN-KEYWORD,openaicom-api'
 
   # IP-ASN (2 rules)
-  - IP-ASN,14061,no-resolve
-  - IP-ASN,20473,no-resolve
+  - 'IP-ASN,14061,no-resolve'
+  - 'IP-ASN,20473,no-resolve'

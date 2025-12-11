@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,www.google.
+  - 'DOMAIN-KEYWORD,www.google.'

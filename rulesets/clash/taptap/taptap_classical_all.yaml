@@ -4,5 +4,5 @@
 payload:
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,tap.io
-  - DOMAIN-SUFFIX,taptap.tw
+  - 'DOMAIN-SUFFIX,tap.io'
+  - 'DOMAIN-SUFFIX,taptap.tw'

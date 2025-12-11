@@ -5,7 +5,7 @@
 payload:
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,qiyi
+  - 'DOMAIN-KEYWORD,qiyi'
 
   # PROCESS-NAME (1 rules)
-  - PROCESS-NAME,com.qiyi.video
+  - 'PROCESS-NAME,com.qiyi.video'

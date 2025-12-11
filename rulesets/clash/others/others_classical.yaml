@@ -5,7 +5,7 @@
 payload:
 
   # DOMAIN-KEYWORD (4 rules)
-  - DOMAIN-KEYWORD,osl
-  - DOMAIN-KEYWORD,javdb
-  - DOMAIN-KEYWORD,hashkey
-  - DOMAIN-KEYWORD,linkedin
+  - 'DOMAIN-KEYWORD,osl'
+  - 'DOMAIN-KEYWORD,javdb'
+  - 'DOMAIN-KEYWORD,hashkey'
+  - 'DOMAIN-KEYWORD,linkedin'

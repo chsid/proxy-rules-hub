@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,kingsmith.cn
-  - DOMAIN-SUFFIX,walkingpad.cn
-  - DOMAIN-SUFFIX,walkingpad.com
-  - DOMAIN-SUFFIX,kingsmith.com.cn
+  - 'DOMAIN-SUFFIX,kingsmith.cn'
+  - 'DOMAIN-SUFFIX,walkingpad.cn'
+  - 'DOMAIN-SUFFIX,walkingpad.com'
+  - 'DOMAIN-SUFFIX,kingsmith.com.cn'

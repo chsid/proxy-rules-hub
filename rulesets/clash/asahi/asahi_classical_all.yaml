@@ -4,12 +4,12 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,asahishimbun.sc.omtrdc.net
+  - 'DOMAIN,asahishimbun.sc.omtrdc.net'
 
   # DOMAIN-SUFFIX (6 rules)
-  - DOMAIN-SUFFIX,asahi.com
-  - DOMAIN-SUFFIX,aiasahi.jp
-  - DOMAIN-SUFFIX,asagaku.com
-  - DOMAIN-SUFFIX,asahicom.jp
-  - DOMAIN-SUFFIX,asakonet.co.jp
-  - DOMAIN-SUFFIX,nikkansports.com
+  - 'DOMAIN-SUFFIX,asahi.com'
+  - 'DOMAIN-SUFFIX,aiasahi.jp'
+  - 'DOMAIN-SUFFIX,asagaku.com'
+  - 'DOMAIN-SUFFIX,asahicom.jp'
+  - 'DOMAIN-SUFFIX,asakonet.co.jp'
+  - 'DOMAIN-SUFFIX,nikkansports.com'

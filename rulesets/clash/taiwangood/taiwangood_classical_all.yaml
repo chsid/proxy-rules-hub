@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,hamifans.emome.net
+  - 'DOMAIN,hamifans.emome.net'
 
   # DOMAIN-SUFFIX (1 rules)
-  - DOMAIN-SUFFIX,skyking.com.tw
+  - 'DOMAIN-SUFFIX,skyking.com.tw'

@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN-SUFFIX (5 rules)
-  - DOMAIN-SUFFIX,ckt.cn
-  - DOMAIN-SUFFIX,byfan.cn
-  - DOMAIN-SUFFIX,huoziyin.cn
-  - DOMAIN-SUFFIX,huoziyin.com
-  - DOMAIN-SUFFIX,chuangkit.com
+  - 'DOMAIN-SUFFIX,ckt.cn'
+  - 'DOMAIN-SUFFIX,byfan.cn'
+  - 'DOMAIN-SUFFIX,huoziyin.cn'
+  - 'DOMAIN-SUFFIX,huoziyin.com'
+  - 'DOMAIN-SUFFIX,chuangkit.com'

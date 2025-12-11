@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,jquery.com
-  - DOMAIN-SUFFIX,jqueryui.com
-  - DOMAIN-SUFFIX,jquerymobile.com
+  - 'DOMAIN-SUFFIX,jquery.com'
+  - 'DOMAIN-SUFFIX,jqueryui.com'
+  - 'DOMAIN-SUFFIX,jquerymobile.com'

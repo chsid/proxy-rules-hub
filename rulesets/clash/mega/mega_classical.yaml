@@ -5,4 +5,4 @@
 payload:
 
   # PROCESS-NAME (1 rules)
-  - PROCESS-NAME,mega.privacy.android.app
+  - 'PROCESS-NAME,mega.privacy.android.app'

@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,cdn.usefathom.com
+  - 'DOMAIN,cdn.usefathom.com'
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
+  - 'DOMAIN-SUFFIX,claude.ai'
+  - 'DOMAIN-SUFFIX,anthropic.com'

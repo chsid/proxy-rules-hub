@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN (2 rules)
-  - DOMAIN,beta.apple.com
-  - DOMAIN,testflight.apple.com
+  - 'DOMAIN,beta.apple.com'
+  - 'DOMAIN,testflight.apple.com'
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,testflight
+  - 'DOMAIN-KEYWORD,testflight'

@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,emojipedia.org
-  - DOMAIN-SUFFIX,worldemojiday.com
-  - DOMAIN-SUFFIX,worldemojiawards.com
+  - 'DOMAIN-SUFFIX,emojipedia.org'
+  - 'DOMAIN-SUFFIX,worldemojiday.com'
+  - 'DOMAIN-SUFFIX,worldemojiawards.com'

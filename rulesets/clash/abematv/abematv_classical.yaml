@@ -5,4 +5,4 @@
 payload:
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,abematv.akamaized.net
+  - 'DOMAIN-KEYWORD,abematv.akamaized.net'

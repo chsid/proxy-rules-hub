@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,jfrog.com
-  - DOMAIN-SUFFIX,jfrog.org
-  - DOMAIN-SUFFIX,bintray.com
+  - 'DOMAIN-SUFFIX,jfrog.com'
+  - 'DOMAIN-SUFFIX,jfrog.org'
+  - 'DOMAIN-SUFFIX,bintray.com'

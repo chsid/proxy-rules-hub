@@ -5,19 +5,19 @@
 payload:
 
   # DOMAIN-KEYWORD (16 rules)
-  - DOMAIN-KEYWORD,moke
-  - DOMAIN-KEYWORD,jdpay
-  - DOMAIN-KEYWORD,qhimg
-  - DOMAIN-KEYWORD,vpimg
-  - DOMAIN-KEYWORD,xiami
-  - DOMAIN-KEYWORD,360buy
-  - DOMAIN-KEYWORD,alicdn
-  - DOMAIN-KEYWORD,alipay
-  - DOMAIN-KEYWORD,ccgslb
-  - DOMAIN-KEYWORD,duobao
-  - DOMAIN-KEYWORD,xiaomi
-  - DOMAIN-KEYWORD,alimama
-  - DOMAIN-KEYWORD,appzapp
-  - DOMAIN-KEYWORD,baidupcs
-  - DOMAIN-KEYWORD,bilibili
-  - DOMAIN-KEYWORD,chinacache
+  - 'DOMAIN-KEYWORD,moke'
+  - 'DOMAIN-KEYWORD,jdpay'
+  - 'DOMAIN-KEYWORD,qhimg'
+  - 'DOMAIN-KEYWORD,vpimg'
+  - 'DOMAIN-KEYWORD,xiami'
+  - 'DOMAIN-KEYWORD,360buy'
+  - 'DOMAIN-KEYWORD,alicdn'
+  - 'DOMAIN-KEYWORD,alipay'
+  - 'DOMAIN-KEYWORD,ccgslb'
+  - 'DOMAIN-KEYWORD,duobao'
+  - 'DOMAIN-KEYWORD,xiaomi'
+  - 'DOMAIN-KEYWORD,alimama'
+  - 'DOMAIN-KEYWORD,appzapp'
+  - 'DOMAIN-KEYWORD,baidupcs'
+  - 'DOMAIN-KEYWORD,bilibili'
+  - 'DOMAIN-KEYWORD,chinacache'

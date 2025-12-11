@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,cetv.cn
-  - DOMAIN-SUFFIX,centv.cn
-  - DOMAIN-SUFFIX,centv.net.cn
+  - 'DOMAIN-SUFFIX,cetv.cn'
+  - 'DOMAIN-SUFFIX,centv.cn'
+  - 'DOMAIN-SUFFIX,centv.net.cn'

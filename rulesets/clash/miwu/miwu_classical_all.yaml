@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,miiiw.cn
-  - DOMAIN-SUFFIX,miiiw.com
-  - DOMAIN-SUFFIX,miiiw.net
+  - 'DOMAIN-SUFFIX,miiiw.cn'
+  - 'DOMAIN-SUFFIX,miiiw.com'
+  - 'DOMAIN-SUFFIX,miiiw.net'

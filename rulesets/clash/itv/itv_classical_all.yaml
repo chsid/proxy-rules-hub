@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,itvpnpmobile-a.akamaihd.net
+  - 'DOMAIN,itvpnpmobile-a.akamaihd.net'
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,itv.com
-  - DOMAIN-SUFFIX,itvstatic.com
+  - 'DOMAIN-SUFFIX,itv.com'
+  - 'DOMAIN-SUFFIX,itvstatic.com'

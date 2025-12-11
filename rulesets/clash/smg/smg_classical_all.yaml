@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,smg.cn
-  - DOMAIN-SUFFIX,cptn.tv
-  - DOMAIN-SUFFIX,smg.sh.cn
-  - DOMAIN-SUFFIX,sava.sh.cn
+  - 'DOMAIN-SUFFIX,smg.cn'
+  - 'DOMAIN-SUFFIX,cptn.tv'
+  - 'DOMAIN-SUFFIX,smg.sh.cn'
+  - 'DOMAIN-SUFFIX,sava.sh.cn'

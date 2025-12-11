@@ -4,9 +4,9 @@
 payload:
 
   # DOMAIN (2 rules)
-  - DOMAIN,kktv-theater.kk.stream
-  - DOMAIN,theater-kktv.cdn.hinet.net
+  - 'DOMAIN,kktv-theater.kk.stream'
+  - 'DOMAIN,theater-kktv.cdn.hinet.net'
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,kktv.me
-  - DOMAIN-SUFFIX,kktv.com.tw
+  - 'DOMAIN-SUFFIX,kktv.me'
+  - 'DOMAIN-SUFFIX,kktv.com.tw'

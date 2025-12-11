@@ -5,5 +5,5 @@
 payload:
 
   # DOMAIN-KEYWORD (2 rules)
-  - DOMAIN-KEYWORD,bbcfmt
-  - DOMAIN-KEYWORD,uk-live
+  - 'DOMAIN-KEYWORD,bbcfmt'
+  - 'DOMAIN-KEYWORD,uk-live'

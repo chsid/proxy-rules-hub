@@ -4,5 +4,5 @@
 payload:
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,actalis.it
-  - DOMAIN-SUFFIX,actalis.com
+  - 'DOMAIN-SUFFIX,actalis.it'
+  - 'DOMAIN-SUFFIX,actalis.com'

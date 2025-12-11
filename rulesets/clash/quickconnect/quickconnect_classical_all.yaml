@@ -4,11 +4,11 @@
 payload:
 
   # DOMAIN (3 rules)
-  - DOMAIN,sns.synology.com
-  - DOMAIN,account.synology.com
-  - DOMAIN,global.quickconnect.cn
+  - 'DOMAIN,sns.synology.com'
+  - 'DOMAIN,account.synology.com'
+  - 'DOMAIN,global.quickconnect.cn'
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,quickconnect.to
-  - DOMAIN-SUFFIX,quickconnect.com
-  - DOMAIN-SUFFIX,download.synology.com
+  - 'DOMAIN-SUFFIX,quickconnect.to'
+  - 'DOMAIN-SUFFIX,quickconnect.com'
+  - 'DOMAIN-SUFFIX,download.synology.com'

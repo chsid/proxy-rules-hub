@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,coolapk.com
-  - DOMAIN-SUFFIX,coolapkmarket.com
-  - DOMAIN-SUFFIX,coolapkmarket.net
+  - 'DOMAIN-SUFFIX,coolapk.com'
+  - 'DOMAIN-SUFFIX,coolapkmarket.com'
+  - 'DOMAIN-SUFFIX,coolapkmarket.net'

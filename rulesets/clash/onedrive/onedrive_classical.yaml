@@ -5,10 +5,10 @@
 payload:
 
   # DOMAIN-KEYWORD (3 rules)
-  - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,onedrive
-  - DOMAIN-KEYWORD,skydrive
+  - 'DOMAIN-KEYWORD,1drv'
+  - 'DOMAIN-KEYWORD,onedrive'
+  - 'DOMAIN-KEYWORD,skydrive'
 
   # PROCESS-NAME (2 rules)
-  - PROCESS-NAME,OneDrive
-  - PROCESS-NAME,OneDriveUpdater
+  - 'PROCESS-NAME,OneDrive'
+  - 'PROCESS-NAME,OneDriveUpdater'

@@ -4,5 +4,5 @@
 payload:
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,moov.hk
-  - DOMAIN-SUFFIX,mtg.now.com
+  - 'DOMAIN-SUFFIX,moov.hk'
+  - 'DOMAIN-SUFFIX,mtg.now.com'

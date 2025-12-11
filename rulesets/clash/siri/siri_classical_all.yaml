@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,guzzoni.apple.com
+  - 'DOMAIN,guzzoni.apple.com'

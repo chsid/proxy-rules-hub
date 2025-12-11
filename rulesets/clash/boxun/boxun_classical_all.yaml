@@ -4,5 +4,5 @@
 payload:
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,boxun.com
-  - DOMAIN-SUFFIX,bowenpress.com
+  - 'DOMAIN-SUFFIX,boxun.com'
+  - 'DOMAIN-SUFFIX,bowenpress.com'

@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN-SUFFIX (1 rules)
-  - DOMAIN-SUFFIX,aiqicha.baidu.com
+  - 'DOMAIN-SUFFIX,aiqicha.baidu.com'

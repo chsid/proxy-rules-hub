@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN-SUFFIX (5 rules)
-  - DOMAIN-SUFFIX,gdfgq.club
-  - DOMAIN-SUFFIX,nutstore.net
-  - DOMAIN-SUFFIX,jianguoyun.com
-  - DOMAIN-SUFFIX,nutstorehq.com
-  - DOMAIN-SUFFIX,jianguopuzi.com
+  - 'DOMAIN-SUFFIX,gdfgq.club'
+  - 'DOMAIN-SUFFIX,nutstore.net'
+  - 'DOMAIN-SUFFIX,jianguoyun.com'
+  - 'DOMAIN-SUFFIX,nutstorehq.com'
+  - 'DOMAIN-SUFFIX,jianguopuzi.com'

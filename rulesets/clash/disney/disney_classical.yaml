@@ -5,5 +5,5 @@
 payload:
 
   # PROCESS-NAME (2 rules)
-  - PROCESS-NAME,com.disney.disneyplus
-  - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
+  - 'PROCESS-NAME,com.disney.disneyplus'
+  - 'PROCESS-NAME,com.disney.datg.videoplatforms.android.abc'

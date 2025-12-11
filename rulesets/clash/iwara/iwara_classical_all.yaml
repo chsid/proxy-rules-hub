@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN-SUFFIX (1 rules)
-  - DOMAIN-SUFFIX,iwara.tv
+  - 'DOMAIN-SUFFIX,iwara.tv'

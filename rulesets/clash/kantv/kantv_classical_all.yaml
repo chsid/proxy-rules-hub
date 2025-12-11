@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN-SUFFIX (1 rules)
-  - DOMAIN-SUFFIX,imkan.tv
+  - 'DOMAIN-SUFFIX,imkan.tv'

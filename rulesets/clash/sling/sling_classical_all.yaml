@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN-SUFFIX (5 rules)
-  - DOMAIN-SUFFIX,sling.com
-  - DOMAIN-SUFFIX,movetv.com
-  - DOMAIN-SUFFIX,dishworld.com
-  - DOMAIN-SUFFIX,movenetworks.com
-  - DOMAIN-SUFFIX,slinginternational.com
+  - 'DOMAIN-SUFFIX,sling.com'
+  - 'DOMAIN-SUFFIX,movetv.com'
+  - 'DOMAIN-SUFFIX,dishworld.com'
+  - 'DOMAIN-SUFFIX,movenetworks.com'
+  - 'DOMAIN-SUFFIX,slinginternational.com'

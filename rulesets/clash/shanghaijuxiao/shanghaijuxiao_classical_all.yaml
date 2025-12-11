@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN-SUFFIX (5 rules)
-  - DOMAIN-SUFFIX,mvad.com
-  - DOMAIN-SUFFIX,mdvdns.com
-  - DOMAIN-SUFFIX,mediav.com
-  - DOMAIN-SUFFIX,bubuying.net
-  - DOMAIN-SUFFIX,kuaishuru.net
+  - 'DOMAIN-SUFFIX,mvad.com'
+  - 'DOMAIN-SUFFIX,mdvdns.com'
+  - 'DOMAIN-SUFFIX,mediav.com'
+  - 'DOMAIN-SUFFIX,bubuying.net'
+  - 'DOMAIN-SUFFIX,kuaishuru.net'

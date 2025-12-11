@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,aol.ca
-  - DOMAIN-SUFFIX,aol.com
-  - DOMAIN-SUFFIX,aol.co.uk
-  - DOMAIN-SUFFIX,aolnews.com
+  - 'DOMAIN-SUFFIX,aol.ca'
+  - 'DOMAIN-SUFFIX,aol.com'
+  - 'DOMAIN-SUFFIX,aol.co.uk'
+  - 'DOMAIN-SUFFIX,aolnews.com'

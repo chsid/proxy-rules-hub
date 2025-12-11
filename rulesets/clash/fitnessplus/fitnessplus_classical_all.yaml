@@ -4,5 +4,5 @@
 payload:
 
   # DOMAIN (2 rules)
-  - DOMAIN,amp-api.fitness.apple.com
-  - DOMAIN,hls-svod.itunes.apple.com
+  - 'DOMAIN,amp-api.fitness.apple.com'
+  - 'DOMAIN,hls-svod.itunes.apple.com'

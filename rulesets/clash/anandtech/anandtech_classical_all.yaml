@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN-SUFFIX (1 rules)
-  - DOMAIN-SUFFIX,anandtech.com
+  - 'DOMAIN-SUFFIX,anandtech.com'

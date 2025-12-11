@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,cloudimg.io
-  - DOMAIN-SUFFIX,cloudimage.io
-  - DOMAIN-SUFFIX,scaleflex.com
+  - 'DOMAIN-SUFFIX,cloudimg.io'
+  - 'DOMAIN-SUFFIX,cloudimage.io'
+  - 'DOMAIN-SUFFIX,scaleflex.com'

@@ -4,5 +4,5 @@
 payload:
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,trk.bonsa.net
-  - DOMAIN-SUFFIX,truthsocial.com
+  - 'DOMAIN-SUFFIX,trk.bonsa.net'
+  - 'DOMAIN-SUFFIX,truthsocial.com'

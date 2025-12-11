@@ -4,11 +4,11 @@
 payload:
 
   # DOMAIN-SUFFIX (8 rules)
-  - DOMAIN-SUFFIX,pgyer.cc
-  - DOMAIN-SUFFIX,pgyer.im
-  - DOMAIN-SUFFIX,pgyer.com
-  - DOMAIN-SUFFIX,qcers.com
-  - DOMAIN-SUFFIX,qcers.net
-  - DOMAIN-SUFFIX,testin.im
-  - DOMAIN-SUFFIX,xcxwo.com
-  - DOMAIN-SUFFIX,tracup.com
+  - 'DOMAIN-SUFFIX,pgyer.cc'
+  - 'DOMAIN-SUFFIX,pgyer.im'
+  - 'DOMAIN-SUFFIX,pgyer.com'
+  - 'DOMAIN-SUFFIX,qcers.com'
+  - 'DOMAIN-SUFFIX,qcers.net'
+  - 'DOMAIN-SUFFIX,testin.im'
+  - 'DOMAIN-SUFFIX,xcxwo.com'
+  - 'DOMAIN-SUFFIX,tracup.com'

@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,kuke.com
-  - DOMAIN-SUFFIX,naxos.cn
-  - DOMAIN-SUFFIX,kukey.com.cn
+  - 'DOMAIN-SUFFIX,kuke.com'
+  - 'DOMAIN-SUFFIX,naxos.cn'
+  - 'DOMAIN-SUFFIX,kukey.com.cn'

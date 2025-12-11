@@ -5,9 +5,9 @@
 payload:
 
   # DOMAIN-KEYWORD (3 rules)
-  - DOMAIN-KEYWORD,jmsooo
-  - DOMAIN-KEYWORD,emby.wtf
-  - DOMAIN-KEYWORD,odysseyplus
+  - 'DOMAIN-KEYWORD,jmsooo'
+  - 'DOMAIN-KEYWORD,emby.wtf'
+  - 'DOMAIN-KEYWORD,odysseyplus'
 
   # PROCESS-NAME (1 rules)
-  - PROCESS-NAME,com.mb.android
+  - 'PROCESS-NAME,com.mb.android'

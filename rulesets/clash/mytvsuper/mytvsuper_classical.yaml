@@ -5,5 +5,5 @@
 payload:
 
   # DOMAIN-KEYWORD (2 rules)
-  - DOMAIN-KEYWORD,nowtv100
-  - DOMAIN-KEYWORD,rthklive
+  - 'DOMAIN-KEYWORD,nowtv100'
+  - 'DOMAIN-KEYWORD,rthklive'

@@ -5,5 +5,5 @@
 payload:
 
   # PROCESS-NAME (2 rules)
-  - PROCESS-NAME,com.cbs.app
-  - PROCESS-NAME,com.showtime.standalone
+  - 'PROCESS-NAME,com.cbs.app'
+  - 'PROCESS-NAME,com.showtime.standalone'

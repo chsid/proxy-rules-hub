@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (1 rules)
-  - DOMAIN-SUFFIX,bilibili.tv
+  - 'DOMAIN-SUFFIX,bilibili.tv'
 
   # PROCESS-NAME (1 rules)
-  - PROCESS-NAME,com.bstar.intl
+  - 'PROCESS-NAME,com.bstar.intl'

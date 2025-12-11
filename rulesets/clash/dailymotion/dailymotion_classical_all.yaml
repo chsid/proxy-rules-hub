@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN-SUFFIX (5 rules)
-  - DOMAIN-SUFFIX,dai.ly
-  - DOMAIN-SUFFIX,dmcdn.net
-  - DOMAIN-SUFFIX,dmxleo.com
-  - DOMAIN-SUFFIX,dm-event.net
-  - DOMAIN-SUFFIX,dailymotion.com
+  - 'DOMAIN-SUFFIX,dai.ly'
+  - 'DOMAIN-SUFFIX,dmcdn.net'
+  - 'DOMAIN-SUFFIX,dmxleo.com'
+  - 'DOMAIN-SUFFIX,dm-event.net'
+  - 'DOMAIN-SUFFIX,dailymotion.com'

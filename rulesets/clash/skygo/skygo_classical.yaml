@@ -5,6 +5,6 @@
 payload:
 
   # DOMAIN-KEYWORD (3 rules)
-  - DOMAIN-KEYWORD,bskyb
-  - DOMAIN-KEYWORD,skygo
-  - DOMAIN-KEYWORD,skyliveuk
+  - 'DOMAIN-KEYWORD,bskyb'
+  - 'DOMAIN-KEYWORD,skygo'
+  - 'DOMAIN-KEYWORD,skyliveuk'

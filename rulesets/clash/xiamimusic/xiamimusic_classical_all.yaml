@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,xiami.fm
-  - DOMAIN-SUFFIX,xiami.com
-  - DOMAIN-SUFFIX,xiami.net
+  - 'DOMAIN-SUFFIX,xiami.fm'
+  - 'DOMAIN-SUFFIX,xiami.com'
+  - 'DOMAIN-SUFFIX,xiami.net'

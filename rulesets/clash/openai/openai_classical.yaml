@@ -5,7 +5,7 @@
 payload:
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,openai
+  - 'DOMAIN-KEYWORD,openai'
 
   # IP-ASN (1 rules)
-  - IP-ASN,20473,no-resolve
+  - 'IP-ASN,20473,no-resolve'

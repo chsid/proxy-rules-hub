@@ -5,7 +5,7 @@
 payload:
 
   # DOMAIN-KEYWORD (4 rules)
-  - DOMAIN-KEYWORD,epicgames
-  - DOMAIN-KEYWORD,steamstore
-  - DOMAIN-KEYWORD,steambroadcast
-  - DOMAIN-KEYWORD,steamuserimages
+  - 'DOMAIN-KEYWORD,epicgames'
+  - 'DOMAIN-KEYWORD,steamstore'
+  - 'DOMAIN-KEYWORD,steambroadcast'
+  - 'DOMAIN-KEYWORD,steamuserimages'

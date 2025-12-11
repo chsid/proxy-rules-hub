@@ -5,5 +5,5 @@
 payload:
 
   # PROCESS-NAME (2 rules)
-  - PROCESS-NAME,Thunder
-  - PROCESS-NAME,Thunder.exe
+  - 'PROCESS-NAME,Thunder'
+  - 'PROCESS-NAME,Thunder.exe'

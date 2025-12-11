@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,wetype.weixin.qq.com
+  - 'DOMAIN,wetype.weixin.qq.com'

@@ -5,7 +5,7 @@
 payload:
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,avoddashs
+  - 'DOMAIN-KEYWORD,avoddashs'
 
   # PROCESS-NAME (1 rules)
-  - PROCESS-NAME,com.amazon.avod.thirdpartyclient
+  - 'PROCESS-NAME,com.amazon.avod.thirdpartyclient'

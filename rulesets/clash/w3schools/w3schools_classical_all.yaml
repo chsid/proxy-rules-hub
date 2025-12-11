@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN-SUFFIX (1 rules)
-  - DOMAIN-SUFFIX,w3schools.com
+  - 'DOMAIN-SUFFIX,w3schools.com'

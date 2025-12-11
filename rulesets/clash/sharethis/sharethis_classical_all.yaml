@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN-SUFFIX (1 rules)
-  - DOMAIN-SUFFIX,sharethis.com
+  - 'DOMAIN-SUFFIX,sharethis.com'

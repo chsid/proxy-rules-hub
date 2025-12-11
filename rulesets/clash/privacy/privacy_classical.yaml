@@ -5,12 +5,12 @@
 payload:
 
   # DOMAIN-KEYWORD (9 rules)
-  - DOMAIN-KEYWORD,fzlm
-  - DOMAIN-KEYWORD,pclog.
-  - DOMAIN-KEYWORD,applog.
-  - DOMAIN-KEYWORD,ioslog.
-  - DOMAIN-KEYWORD,pc-log.
-  - DOMAIN-KEYWORD,app-log.
-  - DOMAIN-KEYWORD,ios-log.
-  - DOMAIN-KEYWORD,analytics.
-  - DOMAIN-KEYWORD,app-analytics
+  - 'DOMAIN-KEYWORD,fzlm'
+  - 'DOMAIN-KEYWORD,pclog.'
+  - 'DOMAIN-KEYWORD,applog.'
+  - 'DOMAIN-KEYWORD,ioslog.'
+  - 'DOMAIN-KEYWORD,pc-log.'
+  - 'DOMAIN-KEYWORD,app-log.'
+  - 'DOMAIN-KEYWORD,ios-log.'
+  - 'DOMAIN-KEYWORD,analytics.'
+  - 'DOMAIN-KEYWORD,app-analytics'

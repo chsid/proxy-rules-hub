@@ -5,4 +5,4 @@
 payload:
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,hbogoasia
+  - 'DOMAIN-KEYWORD,hbogoasia'

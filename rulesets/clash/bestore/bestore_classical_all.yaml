@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,lppz.com
-  - DOMAIN-SUFFIX,517lppz.com
-  - DOMAIN-SUFFIX,lppzimg.com
+  - 'DOMAIN-SUFFIX,lppz.com'
+  - 'DOMAIN-SUFFIX,517lppz.com'
+  - 'DOMAIN-SUFFIX,lppzimg.com'

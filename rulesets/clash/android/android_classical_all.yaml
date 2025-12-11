@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,aida.googleapis.com
+  - 'DOMAIN,aida.googleapis.com'

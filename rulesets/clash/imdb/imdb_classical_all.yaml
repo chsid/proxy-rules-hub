@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,imdb.to
-  - DOMAIN-SUFFIX,imdb.com
-  - DOMAIN-SUFFIX,media-imdb.com
-  - DOMAIN-SUFFIX,boxofficemojo.com
+  - 'DOMAIN-SUFFIX,imdb.to'
+  - 'DOMAIN-SUFFIX,imdb.com'
+  - 'DOMAIN-SUFFIX,media-imdb.com'
+  - 'DOMAIN-SUFFIX,boxofficemojo.com'

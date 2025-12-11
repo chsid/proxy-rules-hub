@@ -4,18 +4,18 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,wmff.warnermediacdn.com
+  - 'DOMAIN,wmff.warnermediacdn.com'
 
   # DOMAIN-SUFFIX (9 rules)
-  - DOMAIN-SUFFIX,h264.io
-  - DOMAIN-SUFFIX,max.com
-  - DOMAIN-SUFFIX,maxgo.com
-  - DOMAIN-SUFFIX,hbomax.com
-  - DOMAIN-SUFFIX,hbonow.com
-  - DOMAIN-SUFFIX,cinemax.com
-  - DOMAIN-SUFFIX,discomax.com
-  - DOMAIN-SUFFIX,hbomaxcdn.com
-  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+  - 'DOMAIN-SUFFIX,h264.io'
+  - 'DOMAIN-SUFFIX,max.com'
+  - 'DOMAIN-SUFFIX,maxgo.com'
+  - 'DOMAIN-SUFFIX,hbomax.com'
+  - 'DOMAIN-SUFFIX,hbonow.com'
+  - 'DOMAIN-SUFFIX,cinemax.com'
+  - 'DOMAIN-SUFFIX,discomax.com'
+  - 'DOMAIN-SUFFIX,hbomaxcdn.com'
+  - 'DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net'
 
   # PROCESS-NAME (1 rules)
-  - PROCESS-NAME,com.hbo.hbonow
+  - 'PROCESS-NAME,com.hbo.hbonow'

@@ -5,4 +5,4 @@
 payload:
 
   # DOMAIN-KEYWORD (1 rules)
-  - DOMAIN-KEYWORD,youtube
+  - 'DOMAIN-KEYWORD,youtube'

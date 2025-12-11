@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,intercom.com
-  - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,intercomassets.com
+  - 'DOMAIN-SUFFIX,intercom.io'
+  - 'DOMAIN-SUFFIX,intercom.com'
+  - 'DOMAIN-SUFFIX,intercomcdn.com'
+  - 'DOMAIN-SUFFIX,intercomassets.com'

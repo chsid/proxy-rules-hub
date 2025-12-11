@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN (3 rules)
-  - DOMAIN,statici.icloud.com
-  - DOMAIN,fmfmobile.icloud.com
-  - DOMAIN,fmipmobile.icloud.com
+  - 'DOMAIN,statici.icloud.com'
+  - 'DOMAIN,fmfmobile.icloud.com'
+  - 'DOMAIN,fmipmobile.icloud.com'

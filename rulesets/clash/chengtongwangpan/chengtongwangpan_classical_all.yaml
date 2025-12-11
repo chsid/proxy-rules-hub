@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,n802.com
-  - DOMAIN-SUFFIX,tv002.com
-  - DOMAIN-SUFFIX,ctfile.com
-  - DOMAIN-SUFFIX,ctfile.net
+  - 'DOMAIN-SUFFIX,n802.com'
+  - 'DOMAIN-SUFFIX,tv002.com'
+  - 'DOMAIN-SUFFIX,ctfile.com'
+  - 'DOMAIN-SUFFIX,ctfile.net'

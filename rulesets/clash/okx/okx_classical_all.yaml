@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,okx.com
-  - DOMAIN-SUFFIX,okex.com
-  - DOMAIN-SUFFIX,oklink.com
+  - 'DOMAIN-SUFFIX,okx.com'
+  - 'DOMAIN-SUFFIX,okex.com'
+  - 'DOMAIN-SUFFIX,oklink.com'

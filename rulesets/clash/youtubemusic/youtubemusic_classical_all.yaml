@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,music.youtube.com
+  - 'DOMAIN,music.youtube.com'

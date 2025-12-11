@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,nikkei.jp
-  - DOMAIN-SUFFIX,nikkei.com
-  - DOMAIN-SUFFIX,nikkei.co.jp
+  - 'DOMAIN-SUFFIX,nikkei.jp'
+  - 'DOMAIN-SUFFIX,nikkei.com'
+  - 'DOMAIN-SUFFIX,nikkei.co.jp'

@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN-SUFFIX (5 rules)
-  - DOMAIN-SUFFIX,hpplay.cn
-  - DOMAIN-SUFFIX,hpplay.com.cn
-  - DOMAIN-SUFFIX,mirrorcast.cn
-  - DOMAIN-SUFFIX,mirrorcast.tv
-  - DOMAIN-SUFFIX,mirrorcast.com.cn
+  - 'DOMAIN-SUFFIX,hpplay.cn'
+  - 'DOMAIN-SUFFIX,hpplay.com.cn'
+  - 'DOMAIN-SUFFIX,mirrorcast.cn'
+  - 'DOMAIN-SUFFIX,mirrorcast.tv'
+  - 'DOMAIN-SUFFIX,mirrorcast.com.cn'

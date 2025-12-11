@@ -5,6 +5,6 @@
 payload:
 
   # PROCESS-NAME (3 rules)
-  - PROCESS-NAME,com.cbs.app
-  - PROCESS-NAME,com.hulu.plus
-  - PROCESS-NAME,com.showtime.standalone
+  - 'PROCESS-NAME,com.cbs.app'
+  - 'PROCESS-NAME,com.hulu.plus'
+  - 'PROCESS-NAME,com.showtime.standalone'

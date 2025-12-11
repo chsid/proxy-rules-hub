@@ -5,8 +5,8 @@
 payload:
 
   # DOMAIN-KEYWORD (2 rules)
-  - DOMAIN-KEYWORD,fbcdn
-  - DOMAIN-KEYWORD,facebook
+  - 'DOMAIN-KEYWORD,fbcdn'
+  - 'DOMAIN-KEYWORD,facebook'
 
   # IP-ASN (1 rules)
-  - IP-ASN,32934,no-resolve
+  - 'IP-ASN,32934,no-resolve'

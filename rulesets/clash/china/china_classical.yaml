@@ -5,12 +5,12 @@
 payload:
 
   # DOMAIN-KEYWORD (9 rules)
-  - DOMAIN-KEYWORD,baidu
-  - DOMAIN-KEYWORD,alicdn
-  - DOMAIN-KEYWORD,alipay
-  - DOMAIN-KEYWORD,aliyun
-  - DOMAIN-KEYWORD,beplay
-  - DOMAIN-KEYWORD,taobao
-  - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-KEYWORD,officecdn
-  - DOMAIN-KEYWORD,.tmall.com
+  - 'DOMAIN-KEYWORD,baidu'
+  - 'DOMAIN-KEYWORD,alicdn'
+  - 'DOMAIN-KEYWORD,alipay'
+  - 'DOMAIN-KEYWORD,aliyun'
+  - 'DOMAIN-KEYWORD,beplay'
+  - 'DOMAIN-KEYWORD,taobao'
+  - 'DOMAIN-KEYWORD,microsoft'
+  - 'DOMAIN-KEYWORD,officecdn'
+  - 'DOMAIN-KEYWORD,.tmall.com'

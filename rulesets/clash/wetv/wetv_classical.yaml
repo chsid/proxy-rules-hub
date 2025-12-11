@@ -5,5 +5,5 @@
 payload:
 
   # PROCESS-NAME (2 rules)
-  - PROCESS-NAME,com.tencent.qqlivei18n
-  - PROCESS-NAME,com.tencent.qqlivei18n.us
+  - 'PROCESS-NAME,com.tencent.qqlivei18n'
+  - 'PROCESS-NAME,com.tencent.qqlivei18n.us'

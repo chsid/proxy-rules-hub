@@ -5,6 +5,6 @@
 payload:
 
   # DOMAIN-KEYWORD (3 rules)
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,developerprofiles
-  - DOMAIN-KEYWORD,generativelanguage
+  - 'DOMAIN-KEYWORD,colab'
+  - 'DOMAIN-KEYWORD,developerprofiles'
+  - 'DOMAIN-KEYWORD,generativelanguage'

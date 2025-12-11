@@ -5,5 +5,5 @@
 payload:
 
   # PROCESS-NAME (2 rules)
-  - PROCESS-NAME,com.iqiyi.i18n
-  - PROCESS-NAME,com.iqiyi.i18n.tv
+  - 'PROCESS-NAME,com.iqiyi.i18n'
+  - 'PROCESS-NAME,com.iqiyi.i18n.tv'

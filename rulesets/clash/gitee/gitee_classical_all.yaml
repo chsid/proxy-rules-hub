@@ -4,5 +4,5 @@
 payload:
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,gitee.io
-  - DOMAIN-SUFFIX,gitee.com
+  - 'DOMAIN-SUFFIX,gitee.io'
+  - 'DOMAIN-SUFFIX,gitee.com'

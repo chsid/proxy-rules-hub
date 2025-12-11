@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,aerogardcn.com
-  - DOMAIN-SUFFIX,aerogard.com.au
-  - DOMAIN-SUFFIX,aerogard.com.cn
+  - 'DOMAIN-SUFFIX,aerogardcn.com'
+  - 'DOMAIN-SUFFIX,aerogard.com.au'
+  - 'DOMAIN-SUFFIX,aerogard.com.cn'

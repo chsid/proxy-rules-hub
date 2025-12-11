@@ -4,6 +4,6 @@
 payload:
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,hitv.com
-  - DOMAIN-SUFFIX,mgtv.com
-  - DOMAIN-SUFFIX,hunantv.com
+  - 'DOMAIN-SUFFIX,hitv.com'
+  - 'DOMAIN-SUFFIX,mgtv.com'
+  - 'DOMAIN-SUFFIX,hunantv.com'

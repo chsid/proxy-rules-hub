@@ -4,8 +4,8 @@
 payload:
 
   # DOMAIN-SUFFIX (5 rules)
-  - DOMAIN-SUFFIX,sinopec.com
-  - DOMAIN-SUFFIX,sinopec-usa.com
-  - DOMAIN-SUFFIX,sinopecgroup.com
-  - DOMAIN-SUFFIX,sinopecsales.com
-  - DOMAIN-SUFFIX,sinopecnews.com.cn
+  - 'DOMAIN-SUFFIX,sinopec.com'
+  - 'DOMAIN-SUFFIX,sinopec-usa.com'
+  - 'DOMAIN-SUFFIX,sinopecgroup.com'
+  - 'DOMAIN-SUFFIX,sinopecsales.com'
+  - 'DOMAIN-SUFFIX,sinopecnews.com.cn'

@@ -4,5 +4,5 @@
 payload:
 
   # DOMAIN-SUFFIX (2 rules)
-  - DOMAIN-SUFFIX,pptv.com
-  - DOMAIN-SUFFIX,pplive.com
+  - 'DOMAIN-SUFFIX,pptv.com'
+  - 'DOMAIN-SUFFIX,pplive.com'

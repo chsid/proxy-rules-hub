@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,acfun.cn
-  - DOMAIN-SUFFIX,acfun.tv
-  - DOMAIN-SUFFIX,acfun.com
-  - DOMAIN-SUFFIX,aixifan.com
+  - 'DOMAIN-SUFFIX,acfun.cn'
+  - 'DOMAIN-SUFFIX,acfun.tv'
+  - 'DOMAIN-SUFFIX,acfun.com'
+  - 'DOMAIN-SUFFIX,aixifan.com'

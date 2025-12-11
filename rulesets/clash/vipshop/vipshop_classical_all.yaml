@@ -4,7 +4,7 @@
 payload:
 
   # DOMAIN-SUFFIX (4 rules)
-  - DOMAIN-SUFFIX,vip.com
-  - DOMAIN-SUFFIX,appsimg.com
-  - DOMAIN-SUFFIX,vipstatic.com
-  - DOMAIN-SUFFIX,appvipshop.com
+  - 'DOMAIN-SUFFIX,vip.com'
+  - 'DOMAIN-SUFFIX,appsimg.com'
+  - 'DOMAIN-SUFFIX,vipstatic.com'
+  - 'DOMAIN-SUFFIX,appvipshop.com'

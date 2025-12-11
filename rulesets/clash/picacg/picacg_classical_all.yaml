@@ -4,13 +4,13 @@
 payload:
 
   # DOMAIN-SUFFIX (10 rules)
-  - DOMAIN-SUFFIX,bikaa.xyz
-  - DOMAIN-SUFFIX,bikac.xyz
-  - DOMAIN-SUFFIX,picacn.xyz
-  - DOMAIN-SUFFIX,bikaios.xyz
-  - DOMAIN-SUFFIX,picacgp.com
-  - DOMAIN-SUFFIX,picacgy.com
-  - DOMAIN-SUFFIX,wikawika.xyz
-  - DOMAIN-SUFFIX,picacomic.com
-  - DOMAIN-SUFFIX,picacomic.xyz
-  - DOMAIN-SUFFIX,manhuabika.com
+  - 'DOMAIN-SUFFIX,bikaa.xyz'
+  - 'DOMAIN-SUFFIX,bikac.xyz'
+  - 'DOMAIN-SUFFIX,picacn.xyz'
+  - 'DOMAIN-SUFFIX,bikaios.xyz'
+  - 'DOMAIN-SUFFIX,picacgp.com'
+  - 'DOMAIN-SUFFIX,picacgy.com'
+  - 'DOMAIN-SUFFIX,wikawika.xyz'
+  - 'DOMAIN-SUFFIX,picacomic.com'
+  - 'DOMAIN-SUFFIX,picacomic.xyz'
+  - 'DOMAIN-SUFFIX,manhuabika.com'

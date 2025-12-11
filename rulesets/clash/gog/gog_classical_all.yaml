@@ -4,9 +4,9 @@
 payload:
 
   # DOMAIN (1 rules)
-  - DOMAIN,gog.salesmanago.com
+  - 'DOMAIN,gog.salesmanago.com'
 
   # DOMAIN-SUFFIX (3 rules)
-  - DOMAIN-SUFFIX,gog.com
-  - DOMAIN-SUFFIX,gog.qtlglb.com
-  - DOMAIN-SUFFIX,gog-statics.com
+  - 'DOMAIN-SUFFIX,gog.com'
+  - 'DOMAIN-SUFFIX,gog.qtlglb.com'
+  - 'DOMAIN-SUFFIX,gog-statics.com'

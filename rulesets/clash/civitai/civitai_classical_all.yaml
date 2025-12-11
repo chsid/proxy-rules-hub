@@ -4,4 +4,4 @@
 payload:
 
   # DOMAIN-SUFFIX (1 rules)
-  - DOMAIN-SUFFIX,civitai.com
+  - 'DOMAIN-SUFFIX,civitai.com'

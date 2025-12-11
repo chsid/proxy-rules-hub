@@ -5,8 +5,8 @@
 payload:
 
   # DOMAIN-KEYWORD (5 rules)
-  - DOMAIN-KEYWORD,m-team
-  - DOMAIN-KEYWORD,chdbits
-  - DOMAIN-KEYWORD,torrent
-  - DOMAIN-KEYWORD,tracker
-  - DOMAIN-KEYWORD,announce
+  - 'DOMAIN-KEYWORD,m-team'
+  - 'DOMAIN-KEYWORD,chdbits'
+  - 'DOMAIN-KEYWORD,torrent'
+  - 'DOMAIN-KEYWORD,tracker'
+  - 'DOMAIN-KEYWORD,announce'
