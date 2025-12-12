@@ -1,9 +1,0 @@
-# cdncn - Classical Format (All Rules)
-# Includes all rule types
-# Rules are optimized and sorted for best performance
-payload:
-
-  # DOMAIN-SUFFIX (3 rules)
-  - 'DOMAIN-SUFFIX,ghfast.top'
-  - 'DOMAIN-SUFFIX,jsdelivr.net'
-  - 'DOMAIN-SUFFIX,jsdmirror.com'

@@ -4496,12 +4496,6 @@ classified_rules:
         files: 
             - "./rulesets/custom/tor.list"
         rules: []
-    cdncn:
-        description: CDN rules for China
-        urls: []
-        files: 
-            - "./rulesets/custom/cdn_cn.list"
-        rules: []
     others:
         description: others
         urls: []
