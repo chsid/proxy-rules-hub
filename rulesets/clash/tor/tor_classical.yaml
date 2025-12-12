@@ -4,10 +4,6 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # SRC-IP-CIDR (2 rules)
-  - 'SRC-IP-CIDR,10.155.255.0/24'
-  - 'SRC-IP-CIDR,10.156.255.0/24'
-
   # PROCESS-NAME (2 rules)
   - 'PROCESS-NAME,tor'
   - 'PROCESS-NAME,tor.exe'

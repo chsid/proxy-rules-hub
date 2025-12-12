@@ -1,0 +1,4 @@
+# CDN rules for China
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,jsdmirror.com

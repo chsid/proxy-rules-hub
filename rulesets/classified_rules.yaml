@@ -4482,7 +4482,7 @@ classified_rules:
         description: Google DNS
         urls: []
         files: 
-            - "./rulesets/custom/dns.list"
+            - "./rulesets/custom/googledns.list"
         rules: []
     jellyfin:
         description: Jellyfin
@@ -4490,15 +4490,21 @@ classified_rules:
         files: 
             - "./rulesets/custom/jellyfin.list"
         rules: []
-    others:
-        description: others
-        urls: []
-        files: 
-            - "./rulesets/custom/others.list"
-        rules: []
     tor:
         description: Tor
         urls: []
         files: 
             - "./rulesets/custom/tor.list"
+        rules: []
+    cdncn:
+        description: CDN rules for China
+        urls: []
+        files: 
+            - "./rulesets/custom/cdn_cn.list"
+        rules: []
+    others:
+        description: others
+        urls: []
+        files: 
+            - "./rulesets/custom/others.list"
         rules: []
